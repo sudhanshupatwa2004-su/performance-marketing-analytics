@@ -1,0 +1,5 @@
+Metric,A,B,Lift_B_vs_A_%,Test_Statistic,p_value,Significant_at_95%
+CTR (clicks / impressions),1.206298,1.397968,15.889134,5.888528,0.0,Yes
+CVR (orders / clicks),2.940182,2.896387,-1.489551,-0.103152,0.917842,No
+"Orders per 1,000 impressions",0.354674,0.404906,14.162907,0.897861,0.36926,No
+"ROAS (daily, Welch t-test)",1.64197,1.651991,0.610317,0.045632,0.96396,No

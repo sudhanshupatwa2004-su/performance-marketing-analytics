@@ -1,0 +1,99 @@
+{
+  "overall": {
+    "Ad_Spend": 3315653.11,
+    "Impressions": 22567701.0,
+    "Reach": 16361745.0,
+    "Clicks": 291096.0,
+    "Orders": 12359.0,
+    "New_Customers": 7576.0,
+    "Returning_Customers": 4783.0,
+    "Revenue": 7267423.8,
+    "ROAS": 2.1918528745004933,
+    "CAC": 437.6522056494192,
+    "CTR_%": 1.2898788405606756,
+    "CPC": 11.390239336851073,
+    "CPM": 146.92028709526062,
+    "CVR_%": 4.245678401626955,
+    "AOV": 588.026846832268
+  },
+  "fest": {
+    "Revenue_per_day": {
+      "No": 116620.7231,
+      "Yes": 161650.7917
+    },
+    "Spend_per_day": {
+      "No": 53585.4393,
+      "Yes": 70339.8983
+    },
+    "ROAS": {
+      "No": 2.1764,
+      "Yes": 2.2981
+    },
+    "CVR_%": {
+      "No": 4.1069,
+      "Yes": 5.3711
+    },
+    "CPM": {
+      "No": 144.3412,
+      "Yes": 167.4316
+    }
+  },
+  "weekend": {
+    "ROAS": {
+      "Weekday": 2.16,
+      "Weekend": 2.2773
+    },
+    "CVR_%": {
+      "Weekday": 4.1361,
+      "Weekend": 4.5499
+    },
+    "CTR_%": {
+      "Weekday": 1.2984,
+      "Weekend": 1.2669
+    },
+    "AOV": {
+      "Weekday": 589.6327,
+      "Weekend": 583.9752
+    }
+  },
+  "ab": {
+    "ctr_lift": 15.889134258960325,
+    "ctr_p": 3.896515776702358e-09,
+    "cvr_lift": -1.4895508352124387,
+    "cvr_p": 0.9178420786771515,
+    "opi_lift": 14.162906691685517,
+    "opi_p": 0.36925990067883596,
+    "roas_p": 0.9639601152926387,
+    "roas_ci": [
+      -0.484167076080014,
+      0.49383577608817075
+    ],
+    "need_clicks": 2318693.371992621,
+    "days_needed": 10292.234371558876,
+    "need_imp_ctr": 54913.85530398452,
+    "mde_rel": 41.848408273655984
+  },
+  "realloc": {
+    "freed_daily": 5963.161075,
+    "to_scale_daily": 1449.0716666666667,
+    "reserve_daily": 4514.089408333333,
+    "delta_rev_daily": -2857.0797833333345,
+    "delta_contrib_daily": 3233.1567650000006
+  },
+  "corr": {
+    "ECOM_Amazon_SP_HairSerum": 0.455,
+    "ECOM_Flipkart_SP_Shampoo": 0.268,
+    "ECOM_Nykaa_Sponsored_VitC": 0.397,
+    "GGL_PMax_OnionHairOil": 0.406,
+    "GGL_Search_Brand": 0.609,
+    "GGL_Search_Generic_HairFall": 0.32,
+    "GGL_Shopping_Sunscreen": 0.322,
+    "GGL_YouTube_HairSerum": 0.295,
+    "META_Awareness_Sunscreen_Reels": 0.329,
+    "META_Prospecting_HairSerum_Static": 0.307,
+    "META_Prospecting_HairSerum_UGC": 0.603,
+    "META_Prospecting_VitC_Influencer": 0.398,
+    "META_Retargeting_Combo_Offer": 0.388,
+    "META_Retargeting_Shampoo_Carousel": 0.519
+  }
+}

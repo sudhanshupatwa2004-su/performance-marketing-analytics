@@ -1,0 +1,853 @@
+﻿Date,Marketing_Channel,Campaign_Name,Campaign_Objective,Product_Name,Ad_Spend,Impressions,Reach,Clicks,Orders,New_Customers,Returning_Customers,Revenue,Audience_Type,Ad_Creative_Type
+2026-10-18,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,2032.37,7779,2885,137,23,9,14,22637.91,Retargeting - Site Visitors,Static Image
+"Sep 11, 2026",Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,6454.94,22887,16108,930,48,39,9,32200.85,Non-Brand Search,Text Ad
+2026-09-27,Meta Ads,  meta_retargeting_combo_offer ,Conversions,Hair Care Combo,1503.42,6554,2548,95,3,1,2,2724.39,Retargeting - Site Visitors,Static Image
+2026-09-26,meta ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3382.7,43679,39215,301,8,7,1,3467.71,Prospecting - Broad,Short Video (Reels)
+2026-10-05,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2693.01,15641,9728,113,4,2,2,1640.43,Marketplace - Keyword,Sponsored Product
+2026-10-14,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5390.68,33539,23461,386,15,11,4,7868.18,Prospecting - Interest,Influencer Video
+26/09/2026,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2286.44,6142,3785,563,54,18,36,30631.92,Brand Search,Text Ad
+2026-09-23,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4063.07,31096,20610,289,6,3,3,3066.06,Performance Max - Mixed,Dynamic / Mixed
+2026-09-28,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1437.33,5889,2204,145,9,2,7,9302.83,Retargeting - Site Visitors,Static Image
+2026-09-27,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2347.44,10444,4089,188,7,3,4,3340.92,Retargeting - Cart Abandoners,Carousel
+2026-10-21,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4017.92,30060,21241,259,8,8,5,4853.95,Prospecting - Lookalike,Static Image
+2026-10-10,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2854.89,48416,40887,220,4,4,0,2341.39,Prospecting - Broad,Long Video
+2026-10-05,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1492.74,7872,2792,107,8,2,6,8541.57,Retargeting - Site Visitors,Static Image
+2026-09-08,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4809.65,31952,22786,364,9,5,4,3635.15,Performance Max - Mixed,Dynamic / Mixed
+2026-09-20,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3302.62,22209,13180,322,18,14,4,7827.51,Shopping - In-Market,Product Listing Ad
+2026-09-30,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3764.09,22947,16823,403,11,8,3,4483.77,Shopping - In-Market,Product Listing Ad
+2026-10-23,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4019.03,44561,38972,352,7,7,0,3090.48,Prospecting - Broad,Short Video (Reels)
+2026-10-28,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,"₹2,638.75",13827,8074,79,2,1,1,776.26,Marketplace - Keyword,Sponsored Product
+2026-10-09,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,,31007,23118,312,10,9,1,5997.79,Prospecting - Lookalike,Static Image
+2026-10-21,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1486.97,6795,2417,86,5,1,4,5834.28,Retargeting - Site Visitors,Static Image
+2026-10-22,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3601.44,23602,15873,313,20,13,7,8084.16,Shopping - In-Market,Product Listing Ad
+2026-09-13,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2961.59,15034,9208,131,6,6,0,2604.18,Marketplace - Keyword,Sponsored Product
+2026-10-05,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,5266.36,32484,23741,447,13,8,5,8477.49,Prospecting - Interest,UGC Video
+2026-09-29,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3067.77,18398,12202,297,7,5,2,2765.24,Shopping - In-Market,Product Listing Ad
+2026-10-26,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5391.02,47275,34923,535,14,11,3,6715.5,Performance Max - Mixed,Dynamic / Mixed
+2026-10-09,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,3850.23,17399,9362,158,16,10,6,10084.9,Marketplace - Keyword,Sponsored Product
+2026-09-25,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3710.62,50867,49576,308,2,2,0,903.88,Prospecting - Broad,Short Video (Reels)
+2026-09-14,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6995.42,49117,38276,560,18,14,4,11908.32,Prospecting - Interest,UGC Video
+2026-10-05,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3841.1,26627,20595,246,5,3,2,2861.12,Prospecting - Lookalike,Static Image
+2026-10-26,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3015.91,52535,43189,194,3,2,1,2024.47,Prospecting - Broad,Long Video
+2026-10-01,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5095.93,32050,22519,403,12,9,3,7072.32,Prospecting - Interest,Influencer Video
+2026-09-03,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,4595.96,15385,9853,543,17,16,1,10353.71,Non-Brand Search,Text Ad
+2026-10-16,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3005.27,43716,36823,213,1,1,0,643.7,Prospecting - Broad,Long Video
+2026-09-01,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2598.82,47012,39577,180,1,1,0,616.08,Prospecting - Broad,Long Video
+2026-09-29,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,3038.15,15065,9183,109,2,1,1,755.16,Marketplace - Keyword,Sponsored Product
+2026-10-01,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3178.57,15033,9399,116,11,6,5,5456.13,Marketplace - Category,Sponsored Product
+2026-10-28,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4188.68,17840,10400,146,20,13,7,11057.06,Marketplace - Keyword,Sponsored Product
+2026-10-23,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,4171.99,13260,9024,525,25,21,4,15909.35,Non-Brand Search,Text Ad
+2026-10-11,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3758.87,54018,51007,407,3,3,0,1284.62,Prospecting - Broad,Short Video (Reels)
+2026-09-12,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5813.94,19595,12876,846,33,28,5,22357.44,Non-Brand Search,Text Ad
+2026-09-17,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3690.58,16795,10905,138,3,3,0,1568.62,Marketplace - Category,Sponsored Product
+2026-09-09,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1405.23,6713,2353,161,8,2,6,7671.94,Retargeting - Site Visitors,Static Image
+2026-09-21,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,3037.17,14255,5731,286,14,9,5,6758.57,Retargeting - Cart Abandoners,Carousel
+2026-10-02,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,7106.52,28862,19342,1171,37,35,2,23102.16,Non-Brand Search,Text Ad
+2026-10-24,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6693.18,46831,33750,590,17,14,3,11220.35,Prospecting - Interest,UGC Video
+2026-10-19,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,3196.09,12964,5121,298,30,16,14,14143.9,Retargeting - Cart Abandoners,Carousel
+2026-10-19,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,5784.03,35893,29617,393,15,13,2,9344.42,Prospecting - Lookalike,Static Image
+2026-10-08,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4388.69,32134,23193,298,6,3,3,4294.23,Prospecting - Lookalike,Static Image
+2026-10-10,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2045.58,9494,4136,175,9,6,3,5123.63,Retargeting - Cart Abandoners,Carousel
+2026-09-06,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3100.55,21894,14328,453,15,14,1,6320.89,Shopping - In-Market,Product Listing Ad
+2026-09-03,meta,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,4458.14,31491,22130,444,14,8,6,7572.93,Prospecting - Interest,Influencer Video
+2026-09-02,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4437.45,35655,30367,290,4,2,2,2400.88,Prospecting - Lookalike,Static Image
+2026-09-06,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4179.78,19518,12311,151,12,9,3,6657.4,Marketplace - Keyword,Sponsored Product
+2026-09-30,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4152.28,53009,45141,385,2,2,0,863.07,Prospecting - Broad,Short Video (Reels)
+2026-09-19,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2446.6,12218,5098,302,16,8,8,9944.71,Retargeting - Cart Abandoners,Carousel
+2026-09-04,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4581.27,41051,29847,378,10,6,4,5548.44,Performance Max - Mixed,
+2026-10-18,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,"₹4,281.99",19550,12447,111,4,4,0,1645.7,Marketplace - Keyword,Sponsored Product
+2026-09-06,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2806.57,12703,5036,255,21,9,12,10940.42,Retargeting - Cart Abandoners,Carousel
+2026-09-24,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3207.88,20780,15041,412,17,14,3,7535.24,Shopping - In-Market,Product Listing Ad
+2026-09-12,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3952.55,23461,16947,323,10,9,1,4361.25,Shopping - In-Market,Product Listing Ad
+2026-09-17,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2802.81,16455,9938,103,4,3,6,1710.83,Marketplace - Keyword,Sponsored Product
+2026-09-04,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4029.99,31356,25528,333,8,8,0,5668.0,Prospecting - Lookalike,Static Image
+2026-10-18,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,4426.74,18952,11757,113,9,6,3,4031.02,,Sponsored Product
+2026-09-16,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2388.53,6943,4574,719,62,17,45,37873.1,Brand Search,Text Ad
+2026-10-21,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,4477.05,14132,8811,533,24,20,4,17587.15,Non-Brand Search,Text Ad
+2026-09-29,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4131.09,37819,25454,425,7,4,3,2690.29,Performance Max - Mixed,Dynamic / Mixed
+2026-10-22,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3757.47,24455,15783,169,7,5,2,3815.18,Marketplace - Category,Sponsored Product
+2026-10-13,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3858.84,19229,13110,137,9,7,2,4708.81,Marketplace - Category,Sponsored Product
+2026-09-15,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2868.94,14089,5311,363,27,14,13,15002.85,Retargeting - Cart Abandoners,Carousel
+2026-09-06,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,1780.9,4988,3162,375,29,8,21,19627.81,,Text Ad
+2026-10-26,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1689.37,7382,2659,179,19,6,13,18619.48,Retargeting - Site Visitors,Static Image
+2026-09-10,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3960.26,24240,16870,398,17,12,5,7589.4,Shopping - In-Market,Product Listing Ad
+2026-09-22,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,6002.83,42853,32964,599,15,12,3,8169.77,Prospecting - Interest,Influencer Video
+30/10/2026,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5986.06,40290,26866,378,7,6,1,4208.94,Prospecting - Interest,Influencer Video
+2026-09-26,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4878.01,35737,24813,395,19,15,4,9269.59,Performance Max - Mixed,Dynamic / Mixed
+2026-10-02,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2723.95,14227,9199,105,0,0,0,0.0,Marketplace - Keyword,Sponsored Product
+2026-09-14,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,6618.35,41973,28596,718,14,9,5,7242.38,Prospecting - Interest,Influencer Video
+2026-10-30,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5844.71,47784,34110,497,11,8,3,4811.95,Performance Max - Mixed,Dynamic / Mixed
+2026-09-10,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4728.02,22805,12511,181,14,9,5,8604.24,Marketplace - Keyword,Sponsored Product
+2026-10-23,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1580.67,7085,2719,165,6,1,5,7207.58,Retargeting - Site Visitors,Static Image
+2026-10-19,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4779.71,53617,46231,430,2,1,1,961.69,Prospecting - Broad,Short Video (Reels)
+2026-10-03,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5715.25,35891,26245,508,12,10,2,7025.6,Prospecting - Interest,Influencer Video
+2026-09-17,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2987.05,47356,39987,151,1,1,0,684.78,Prospecting - Broad,Long Video
+2026-09-08,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3245.0,20712,13732,347,10,9,1,4506.2,Shopping - In-Market,Product Listing Ad
+2026-10-25, Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,1661.81,4013,2533,364,26,9,17,16532.51,Brand Search,Text Ad
+2026-10-25,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4368.76,36012,26758,449,11,6,5,5910.84,Performance Max - Mixed,Dynamic / Mixed
+2026-10-29,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3926.28,19242,11530,138,9,5,4,5401.51,Marketplace - Category,Sponsored Product
+2026-09-21,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,3404.19,15356,9878,96,4,2,2,1638.33,Marketplace - Keyword,Sponsored Product
+2026-10-24,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2607.9,12544,8475,85,4,1,3,1647.37,Marketplace - Keyword,Sponsored Product
+2026-10-02,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5898.8,44781,32067,465,17,11,6,8030.56,Performance Max - Mixed,Dynamic / Mixed
+2026-10-22,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2722.75,45726,40333,199,3,3,0,1806.34,Prospecting - Broad,Long Video
+2026-10-11,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4744.48,37598,26201,414,10,6,4,4860.07,Performance Max - Mixed,Dynamic / Mixed
+2026-09-08,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4110.78,18977,10168,148,11,11,0,7264.75,Marketplace - Keyword,Sponsored Product
+2026-10-28,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2667.68,6560,4246,461,35,9,26,22176.59,Brand Search,Text Ad
+2026-10-04,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2840.72,12704,5187,290,20,7,13,9885.02,Retargeting - Cart Abandoners,Carousel
+2026-10-08,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2884.21,47317,39392,200,1,1,0,591.27,Prospecting - Broad,Long Video
+2026-10-28,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5885.39,20986,14290,909,31,26,5,20087.09,Non-Brand Search,Text Ad
+2026-10-02,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,2610.11,16388,10277,271,12,10,2,5281.83,Shopping - In-Market,Product Listing Ad
+2026-10-29,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1500.78,6517,2548,133,9,4,5,8159.06,Retargeting - Site Visitors,Static Image
+2026-10-30,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2077.4,5949,3673,458,33,9,24,19289.31,Brand Search,Text Ad
+2026-10-21,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4841.8,41950,33013,539,11,6,5,5870.95,Performance Max - Mixed,Dynamic / Mixed
+2026-10-05,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,6679.47,20306,13108,852,50,43,7,30653.51,Non-Brand Search,Text Ad
+2026-10-19,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,9550.48,55642,38585,745,37,26,11,19960.05,Prospecting - Interest,UGC Video
+2026-09-11,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3387.23,49187,37933,210,6,5,1,3449.93,Prospecting - Broad,Long Video
+2026-09-18,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,3711.15,29719,22125,343,11,6,5,5366.15,Performance Max - Mixed,Dynamic / Mixed
+2026-09-25,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3087.64,17965,12865,306,11,9,2,5316.8,Shopping - In-Market,Product Listing Ad
+2026-10-29,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2390.68,6488,4041,562,45,17,28,28005.19,Brand Search,Text Ad
+2026-09-01,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3699.57,19639,12177,102,4,3,1,2212.64,Marketplace - Category,Sponsored Product
+2026-09-01,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,3882.45,32239,22750,371,12,8,4,5937.26,Performance Max - Mixed,Dynamic / Mixed
+2026-09-08,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2857.15,13423,5148,264,16,5,11,7701.65,Retargeting - Cart Abandoners,Carousel
+2026-09-09,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,3396.84,16669,10469,94,0,0,0,0.0,Marketplace - Keyword,Sponsored Product
+2026-09-02,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,3013.15,15376,9593,107,5,3,2,1783.14,Marketplace - Keyword,Sponsored Product
+2026-09-24,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2848.88,52038,40811,190,3,2,1,2223.23,Prospecting - Broad,Long Video
+2026-09-24,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1420.55,6102,2105,119,13,7,6,13378.79,Retargeting - Site Visitors,Static Image
+2026-09-16,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,5193.75,37268,28788,466,6,5,1,4552.83,Prospecting - Interest,UGC Video
+2026-09-05,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4645.04,34716,23454,400,9,5,4,4224.78,Performance Max - Mixed,Dynamic / Mixed
+2026-09-01,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3793.47,32517,25812,324,13,13,0,8235.27,Prospecting - Lookalike,Static Image
+2026-10-13,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2704.46,13790,8770,80,7,4,3,2578.43,Marketplace - Keyword,Sponsored Product
+2026-10-17,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,7984.9,49035,38521,775,36,26,10,23832.42,Prospecting - Interest,UGC Video
+2026-09-30,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2706.5,13878,8418,91,3,1,2,1302.4,Marketplace - Keyword,Sponsored Product
+2026-09-20,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,1778.95,5109,3244,399,43,13,30,25722.73,Brand Search,Text Ad
+2026-09-17,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,5287.2,23882,15742,202,22,16,6,14472.27,Marketplace - Keyword,Sponsored Product
+2026-09-06,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3925.34,19374,12326,152,10,5,5,5062.06,Marketplace - Category,Sponsored Product
+"Sep 25, 2026",Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,4273.02,28168,20494,305,9,9,0,5014.53,Prospecting - Interest,Influencer Video
+2026-10-18,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2733.2,6111,3610,579,67,19,48,39905.52,Brand Search,Text Ad
+2026-10-28,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,7057.23,41965,33883,505,28,23,5,20730.82,Prospecting - Interest,UGC Video
+2026-10-04,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3394.65,21767,15212,325,12,11,1,4668.27,Shopping - In-Market,Product Listing Ad
+24/09/2026,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,2715.94,13118,8123,80,4,2,2,2044.22,Marketplace - Category,Sponsored Product
+2026-09-25,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,3058.89,16740,10508,124,5,5,0,2222.3,Marketplace - Keyword,Sponsored Product
+2026-09-30,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2008.71,5218,3426,593,42,13,29,22825.94,Brand Search,Text Ad
+2026-09-19,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,3551.95,16534,10349,126,3,0,3,1346.25,Marketplace - Keyword,Sponsored Product
+2026-09-13,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5423.99,36027,25143,570,14,10,4,6783.34,Prospecting - Interest,Influencer Video
+2026-10-14,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2209.02,5676,3772,519,45,14,31,35660.66,Brand Search,Text Ad
+2026-10-25,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,"₹6,731.21",39922,30748,546,15,9,6,9639.36,Prospecting - Interest,UGC Video
+2026-09-15,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3390.14,61188,52698,247,3,3,0,1699.26,Prospecting - Broad,Long Video
+2026-09-14,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4767.78,34805,23536,429,20,12,8,9266.09,Performance Max - Mixed,Dynamic / Mixed
+2026-10-30,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3004.11,54455,46044,254,1,1,0,623.8,Prospecting - Broad,Long Video
+2026-10-07,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3248.89,15314,10283,124,17,7,10,8738.42,Marketplace - Category,Sponsored Product
+2026-09-23,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,5834.47,464,30756,41184,20,14,6,10779.67,Prospecting - Interest,UGC Video
+2026-10-24,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3326.27,16083,9750,120,13,10,3,7860.46,Marketplace - Category,Sponsored Product
+2026-09-29,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2755.6,15782,6627,337,19,7,12,8420.89,Retargeting - Cart Abandoners,Carousel
+2026-10-23,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3947.18,27320,18919,446,20,18,2,9409.75,Shopping - In-Market,Product Listing Ad
+2026-09-14,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1323.4,6107,2071,118,9,6,3,8827.84,Retargeting - Site Visitors,Static Image
+2026-10-25,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,4671.43,24811,15160,171,13,11,2,7373.59,Marketplace - Category,Sponsored Product
+2026-09-27,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,6684.68,22103,13962,885,21,18,3,12617.1,Non-Brand Search,Text Ad
+2026-09-01,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1679.25,7890,2863,126,7,4,3,6567.36,Retargeting - Site Visitors,Static Image
+2026-10-23,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4827.57,23669,14862,190,14,9,5,8204.82,Marketplace - Keyword,Sponsored Product
+2026-10-26,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2792.29,14373,9725,82,1,1,0,410.27,Marketplace - Keyword,Sponsored Product
+2026-09-23,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,3048.88,14687,5678,359,20,5,15,10833.01,Retargeting - Cart Abandoners,Carousel
+2026-10-21,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6577.59,45677,35406,695,23,13,10,13620.76,Prospecting - Interest,UGC Video
+2026-09-14,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4648.5,23925,14312,192,17,12,5,8989.08,Marketplace - Keyword,Sponsored Product
+2026-09-17,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5244.12,45194,32614,527,19,14,5,9227.32,Performance Max - Mixed,Dynamic / Mixed
+2026-09-28,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2577.46,6953,4303,623,58,20,38,35394.68,Brand Search,Text Ad
+2026-09-22,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3261.63,25031,19627,240,6,5,1,3399.07,Prospecting - Lookalike,Static Image
+2026-10-10,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2499.12,13023,8975,82,4,1,3,1512.51,Marketplace - Keyword,Sponsored Product
+2026-10-17,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5256.36,41868,32246,421,22,19,3,9804.83,Performance Max - Mixed,Dynamic / Mixed
+2026-09-23,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3188.52,17283,10503,152,3,2,1,1544.25,Marketplace - Category,Sponsored Product
+2026-09-07,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4621.25,34581,27312,407,10,8,2,6853.01,Prospecting - Lookalike,Static Image
+2026-09-20,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4266.32,17217,10316,147,11,6,5,7127.51,Marketplace - Keyword,Sponsored Product
+2026-09-10,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6169.83,42823,29785,480,17,12,5,10555.78,Prospecting - Interest,UGC Video
+2026-09-12,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3224.84,45952,38403,177,1,0,1,636.25,Prospecting - Broad,Long Video
+2026-10-18,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,6825.37,47589,34027,568,19,11,8,9189.5,Performance Max - Mixed,Dynamic / Mixed
+2026-10-22,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2634.74,12948,5105,323,25,7,18,13330.5,Retargeting - Cart Abandoners,Carousel
+2026-09-18,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,5465.64,25718,14743,198,15,12,3,10361.48,Marketplace - Keyword,Sponsored Product
+2026-09-08,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2182.83,5252,3112,510,44,8,36,28038.55,Brand Search,Text Ad
+2026-09-03,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4485.75,20597,12172,153,17,12,5,10997.83,Marketplace - Keyword,Sponsored Product
+2026-10-15,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,7363.6,23584,16636,1001,37,31,6,23090.67,Non-Brand Search,Text Ad
+24/09/2026,E-commerce,  ecom_amazon_sp_hairserum ,Sales,Hair Growth Serum,4327.43,19032,12099,173,10,7,3,6089.99,Marketplace - Keyword,Sponsored Product
+2026-09-19,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3219.13,52942,41110,235,7,7,0,,Prospecting - Broad,Long Video
+2026-10-12,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,4070.95,21623,14567,163,12,11,1,6406.47,Marketplace - Category,Sponsored Product
+2026-09-05,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4495.98,33722,26391,312,14,10,4,8075.44,Prospecting - Lookalike,Static Image
+2026-10-20,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,5025.09,20312,12181,173,12,5,7,6257.29,Marketplace - Category,Sponsored Product
+2026-10-13,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3912.49,48001,45985,368,3,3,0,1327.06,Prospecting - Broad,Short Video (Reels)
+2026-10-30,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2518.62,14425,5802,318,14,6,8,8246.89,Retargeting - Cart Abandoners,Carousel
+2026-10-12,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4542.72,21027,12442,172,16,12,4,9182.96,Marketplace - Keyword,Sponsored Product
+2026-09-28,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3942.59,29144,18253,481,16,16,0,7836.93,Shopping - In-Market,Product Listing Ad
+2026-10-07,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1752.62,7833,2545,129,10,4,6,11548.27,Retargeting - Site Visitors,Static Image
+2026-10-14,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5449.95,20825,12533,921,30,26,4,18403.75,Non-Brand Search,Text Ad
+2026-10-28,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3005.18,48731,41225,175,1,1,0,652.17,Prospecting - Broad,Long Video
+2026-10-23,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2365.64,41575,34533,136,0,0,0,0.0,Prospecting - Broad,Long Video
+2026-09-14,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3322.99,17762,12946,330,5,3,2,2732.36,Shopping - In-Market,Product Listing Ad
+2026-09-25,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3521.62,47952,41306,216,1,1,0,640.06,Prospecting - Broad,Long Video
+2026-09-14,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2974.7,55828,44903,250,2,2,0,1142.1,Prospecting - Broad,Long Video
+2026-10-30,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2413.09,12402,7163,57,1,1,0,424.18,Marketplace - Keyword,Sponsored Product
+2026-09-27,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3271.01,50211,39562,225,1,1,0,605.02,Prospecting - Broad,Long Video
+2026-10-04,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,3070.56,16115,10090,101,1,0,1,364.53,Marketplace - Keyword,Sponsored Product
+2026-10-21,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3802.83,23142,15765,355,11,7,4,4792.52,Shopping - In-Market,Product Listing Ad
+2026-09-20,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3288.15,53453,45396,217,0,0,0,0.0,Prospecting - Broad,Long Video
+2026-10-22,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,7541.91,52821,41058,840,25,20,5,15543.57,Prospecting - Interest,UGC Video
+2026-09-07,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3088.09,39460,37197,308,0,0,3,0.0,Prospecting - Broad,Short Video (Reels)
+2026-10-24,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1762.47,7620,2802,176,17,6,11,15830.26,Retargeting - Site Visitors,Static Image
+2026-09-25,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4339.41,19422,11457,138,14,10,4,8639.54,Marketplace - Keyword,Sponsored Product
+2026-10-04,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,4639.38,13532,8887,542,20,17,3,15836.14,Non-Brand Search,Text Ad
+2026-10-27,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,4979.58,34354,26140,355,9,5,4,4279.46,Prospecting - Interest,Influencer Video
+2026-09-26,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4672.67,21926,13128,155,13,9,4,,Marketplace - Keyword,Sponsored Product
+2026-09-09,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3867.18,53576,48068,436,8,7,1,2821.09,Prospecting - Broad,Short Video (Reels)
+2026-09-19,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3557.96,22150,15769,346,17,13,4,8609.18,Shopping - In-Market,Product Listing Ad
+2026-10-09,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4626.23,40617,31103,464,18,14,4,,Performance Max - Mixed,Dynamic / Mixed
+2026-10-22,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4619.47,42589,32165,563,26,18,8,10130.37,Performance Max - Mixed,Dynamic / Mixed
+2026-09-24,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5050.48,32713,24201,543,12,8,4,7277.15,Prospecting - Interest,Influencer Video
+2026-09-14,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2935.49,15719,9599,132,5,4,1,1946.01,Marketplace - Keyword,Sponsored Product
+2026-09-21,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3830.25,23332,15708,328,19,16,3,7389.18,Shopping - In-Market,Product Listing Ad
+2026-09-17,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5145.19,33748,23152,533,9,7,2,4410.39,Prospecting - Interest,Influencer Video
+2026-09-22,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,6002.83,42853,32964,599,15,12,3,8169.77,Prospecting - Interest,Influencer Video
+2026-10-09,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,4628.9,28614,20361,391,15,13,2,9243.67,Prospecting - Interest,Influencer Video
+2026-09-12,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2622.92,12493,7556,83,2,1,1,797.86,Marketplace - Keyword,Sponsored Product
+2026-09-12,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,4152.24,27923,18562,393,11,10,1,6909.36,Prospecting - Interest,Influencer Video
+2026-09-15,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,"₹5,099.72",35960,26807,299,6,5,1,3946.88,Prospecting - Lookalike,Static Image
+2026-09-17,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1902.14,7656,2948,184,10,2,8,10399.75,Retargeting - Site Visitors,Static Image
+2026-09-16,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5936.81,19604,12789,575,24,19,5,15501.37,Non-Brand Search,Text Ad
+2026-09-09,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,1949.67,8849,3616,197,9,3,6,4551.68,Retargeting - Cart Abandoners,Carousel
+2026-10-13,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4845.79,50949,38512,674,23,16,7,11364.51,Performance Max - Mixed,Dynamic / Mixed
+2026-09-01,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3085.37,22218,14660,307,14,11,3,6718.59,Shopping - In-Market,Product Listing Ad
+2026-10-20,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4939.38,29919,21780,296,12,11,1,7112.8,Prospecting - Lookalike,Static Image
+2026-09-26,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6395.62,49558,36075,648,21,16,5,13608.16,Prospecting - Interest,UGC Video
+2026-10-01,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4343.24,18810,11418,156,15,8,7,9444.75,Marketplace - Keyword,Sponsored Product
+2026-09-09,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2912.09,52048,43353,207,3,3,0,1957.94,Prospecting - Broad,Long Video
+2026-10-10,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4649.06,20216,11192,171,15,13,2,8683.56,Marketplace - Keyword,Sponsored Product
+2026-10-08,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,4238.58,27597,17526,354,16,12,4,7843.0,Prospecting - Interest,Influencer Video
+2026-09-03,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1654.63,7076,2675,119,6,1,5,5722.44,Retargeting - Site Visitors,Static Image
+"Oct 19, 2026",E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3991.19,18618,12203,162,17,12,5,8383.51,Marketplace - Category,Sponsored Product
+2026-09-19,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1587.32,6720,2359,113,6,4,2,5766.58,Retargeting - Site Visitors,Static Image
+2026-09-18,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2751.77,17007,9556,115,2,0,2,745.63,Marketplace - Keyword,Sponsored Product
+2026-10-28,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3142.74,38485,31058,323,6,5,1,2640.04,Prospecting - Broad,Short Video (Reels)
+"Sep 29, 2026",Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2295.52,6776,4112,514,39,9,30,24934.34,Brand Search,Text Ad
+2026-10-06,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2935.82,16147,10191,93,3,2,1,1499.37,Marketplace - Keyword,Sponsored Product
+2026-10-09,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3806.34,50705,43761,363,6,4,2,2751.09,Prospecting - Broad,Short Video (Reels)
+2026-09-21,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3325.38,50242,37062,200,2,1,1,1254.58,Prospecting - Broad,Long Video
+2026-10-10,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4201.51,31462,26385,329,8,7,1,4765.23,Prospecting - Lookalike,Static Image
+2026-10-16,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,4293.67,20902,12512,154,6,3,3,2202.81,Marketplace - Keyword,Sponsored Product
+2026-09-13,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3385.45,48521,40359,389,6,5,1,2487.53,Prospecting - Broad,Short Video (Reels)
+"Sep 25, 2026",Facebook Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,8765.95,66706,50358,830,17,11,6,11265.08,Prospecting - Interest,UGC Video
+2026-09-12,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3270.16,46099,41652,329,9,9,0,3506.04,Prospecting - Broad,Short Video (Reels)
+2026-09-19,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4699.24,46524,32452,538,12,8,4,5754.8,Performance Max - Mixed,Dynamic / Mixed
+2026-09-20,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5165.25,34420,25326,555,11,9,2,6496.22,Prospecting - Interest,Influencer Video
+2026-09-01,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2221.03,6156,3864,583,51,17,34,32950.19,Brand Search,Text Ad
+2026-10-19,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,4535.08,25104,18123,385,23,16,7,8566.54,Shopping - In-Market,Product Listing Ad
+2026-09-13,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2435.66,12642,5198,304,27,7,20,14685.96,Retargeting - Cart Abandoners,Carousel
+2026-10-01,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3985.08,23941,15824,375,29,26,3,12465.18,Shopping - In-Market,Product Listing Ad
+2026-09-04,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,3951.09,17827,10944,145,7,3,4,4359.61,Marketplace - Keyword,Sponsored Product
+2026-09-05,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5177.65,34796,23880,548,16,12,4,8958.39,Prospecting - Interest,Influencer Video
+2026-10-02,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5668.09,35323,23197,458,11,7,4,5324.77,Prospecting - Interest,Influencer Video
+2026-10-01,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2160.58,5761,3534,475,50,17,33,31928.35,Brand Search,Text Ad
+2026-09-11,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4093.81,34884,29004,275,5,5,7,2582.98,Prospecting - Lookalike,Static Image
+2026-10-01,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4680.9,38606,27668,364,13,6,7,7089.22,Performance Max - Mixed,Dynamic / Mixed
+2026-09-23,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4111.3,18206,10810,173,19,12,7,12380.66,Marketplace - Keyword,Sponsored Product
+2026-10-22,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2288.77,7438,4778,670,59,18,41,37799.08,,Text Ad
+2026-10-26,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,5108.08,40631,32492,386,9,6,3,4909.5,Prospecting - Lookalike,Static Image
+2026-10-30,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3846.73,52304,45322,315,3,3,0,1336.06,Prospecting - Broad,Short Video (Reels)
+2026-10-12,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2950.55,50792,44757,211,1,1,0,662.0,Prospecting - Broad,Long Video
+2026-10-20,GOOGLE ADS,GGL_Search_Brand,Conversions,Hair Growth Serum,3133.83,7447,4637,619,67,19,48,43017.62,Brand Search,Text Ad
+2026-09-28,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3520.18,17938,12153,139,9,4,5,4686.11,Marketplace - Category,Sponsored Product
+2026-09-02,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4647.74,37864,26533,439,16,10,6,7346.33,Performance Max - Mixed,Dynamic / Mixed
+2026-10-21,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,3033.81,14362,9422,94,1,1,0,429.89,Marketplace - Keyword,Sponsored Product
+2026-10-17,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,4645.8,24461,16806,417,12,9,3,4746.37,Shopping - In-Market,Product Listing Ad
+2026-10-08,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,6366.93,22831,15665,1016,42,35,7,25210.57,Non-Brand Search,Text Ad
+2026-09-29,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4532.78,20379,11602,136,9,4,5,5744.8,Marketplace - Keyword,Sponsored Product
+2026-09-22,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,4905.6,19031,12993,672,22,18,4,12749.53,Non-Brand Search,Text Ad
+2026-09-03,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,7453.58,52047,39353,662,16,12,4,12153.7,Prospecting - Interest,UGC Video
+2026-10-20,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,5532.61,69135,57120,416,7,4,3,3199.11,Prospecting - Broad,Short Video (Reels)
+2026-09-05,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4801.03,23774,14152,209,21,14,7,11778.76,Marketplace - Keyword,Sponsored Product
+2026-09-07,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2817.27,14403,9001,88,4,2,2,1815.23,Marketplace - Keyword,Sponsored Product
+2026-09-10,E-commerce,  ecom_nykaa_sponsored_vitc ,Sales,Vitamin C Face Serum,3580.63,19983,12493,174,14,11,3,8092.93,Marketplace - Category,Sponsored Product
+2026-09-20,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3806.69,54180,48266,379,3,2,1,1372.37,Prospecting - Broad,Short Video (Reels)
+2026-09-23,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2385.6,5712,3967,487,32,8,24,19560.58,Brand Search,Text Ad
+2026-09-12,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2270.63,6124,3877,539,33,9,24,19607.01,Brand Search,Text Ad
+06/09/2026,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4158.88,37046,30505,323,7,5,2,4099.09,Prospecting - Lookalike,Static Image
+2026-10-07,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,"₹2,039.29",4922,3089,512,32,11,21,20721.82,Brand Search,Text Ad
+2026-09-13,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3114.96,22935,14340,319,17,12,5,6771.51,Shopping - In-Market,Product Listing Ad
+2026-09-01,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4654.06,22194,13897,217,16,11,5,9495.97,Marketplace - Keyword,Sponsored Product
+2026-10-08,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2466.66,6653,4099,572,48,13,35,38599.08,Brand Search,Text Ad
+2026-10-22,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2699.88,14395,9668,84,2,1,1,735.23,Marketplace - Keyword,Sponsored Product
+2026-09-02,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3134.44,62360,58244,278,2,1,1,1340.59,Prospecting - Broad,Long Video
+2026-10-04,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5490.47,39823,28525,555,12,8,4,6725.81,Prospecting - Interest,Influencer Video
+2026-10-14,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2882.94,44656,37864,176,1,1,0,596.16,Prospecting - Broad,Long Video
+2026-10-28,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2461.78,11760,4514,274,13,8,5,6759.7,Retargeting - Cart Abandoners,Carousel
+2026-10-08,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,7751.32,55489,40053,746,18,14,4,11932.38,Prospecting - Interest,UGC Video
+2026-09-23,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4149.69,61338,54994,461,8,5,3,3114.65,Prospecting - Broad,Short Video (Reels)
+2026-10-27,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3481.91,49881,47411,287,3,3,0,1531.36,Prospecting - Broad,Short Video (Reels)
+2026-09-30,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2665.61,13463,5290,322,17,10,7,8707.77,Retargeting - Cart Abandoners,Carousel
+2026-10-08,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4075.78,50018,45463,327,9,8,1,4669.18,Prospecting - Broad,Short Video (Reels)
+2026-10-03,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5551.45,46248,31910,481,9,7,2,4249.19,Performance Max - Mixed,Dynamic / Mixed
+2026-10-16,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,7588.42,45965,30000,458,19,14,5,9723.33,Prospecting - Interest,Influencer Video
+2026-10-06,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3879.68,28229,21144,523,19,15,4,8961.42,Shopping - In-Market,Product Listing Ad
+2026-10-20,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,6779.83,40248,27702,408,16,9,7,7751.63,Prospecting - Interest,Influencer Video
+2026-09-09,E commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,4082.39,21188,13526,182,13,8,5,7086.82,Marketplace - Category,Sponsored Product
+2026-10-28,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3243.79,16363,10968,126,10,4,6,4940.56,Marketplace - Category,Sponsored Product
+2026-10-29,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,4972.39,17280,13259,663,23,17,6,14004.16,Non-Brand Search,Text Ad
+2026-09-04,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2661.72,14823,9355,91,4,2,2,1619.18,Marketplace - Keyword,Sponsored Product
+2026-10-25,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,6215.5,41633,27989,533,16,12,4,8723.67,Prospecting - Interest,Influencer Video
+2026-09-06,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1640.61,6579,2215,123,9,2,7,9079.18,Retargeting - Site Visitors,Static Image
+2026-09-14,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3251.57,44370,38128,314,2,2,0,935.61,Prospecting - Broad,Short Video (Reels)
+2026-10-26,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3940.81,56559,48499,337,4,3,1,1946.83,Prospecting - Broad,Short Video (Reels)
+2026-10-20,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4795.74,19352,11269,150,23,15,8,13861.04,Marketplace - Keyword,Sponsored Product
+2026-10-26,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,7202.14,46895,36373,666,21,20,1,13724.71,Prospecting - Interest,UGC Video
+2026-09-01,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,3307.32,16648,10179,112,3,2,1,1206.25,Marketplace - Keyword,Sponsored Product
+2026-10-07,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3696.15,31016,23012,340,15,13,2,9472.31,Prospecting - Lookalike,Static Image
+2026-09-22,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2089.74,9765,4036,195,9,3,6,4816.97,Retargeting - Cart Abandoners,Carousel
+2026-10-23,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4820.99,37629,27190,316,12,7,5,6606.72,Performance Max - Mixed,Dynamic / Mixed
+2026-09-13,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3733.28,21578,13054,160,10,8,2,6234.43,Marketplace - Category,Sponsored Product
+2026-10-19,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2796.81,7124,5099,549,51,13,38,33079.44,Brand Search,Text Ad
+2026-09-30,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,6345.53,22759,15892,850,20,20,0,10115.29,Non-Brand Search,Text Ad
+2026-09-01,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,1898.07,9994,3739,232,11,4,7,5462.12,Retargeting - Cart Abandoners,Carousel
+2026-09-03,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,1993.77,5036,3289,429,28,3,25,16044.48,Brand Search,Text Ad
+2026-09-03,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4043.52,31832,24277,303,10,7,3,7306.5,Prospecting - Lookalike,Static Image
+2026-10-13,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3537.59,51464,43909,224,2,2,0,1211.63,Prospecting - Broad,Long Video
+2026-10-21,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3674.0,61467,48592,295,3,2,1,1694.11,Prospecting - Broad,Long Video
+2026-09-04,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,"₹6,100.45",45001,32452,651,14,10,4,9508.92,Prospecting - Interest,UGC Video
+2026-10-29,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,5500.77,39267,30028,555,12,8,4,8504.33,Prospecting - Interest,
+2026-10-14,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3592.3,46353,41439,306,8,8,0,4186.35,Prospecting - Broad,Short Video (Reels)
+2026-09-07,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5095.85,14863,9802,650,28,18,10,18198.03,Non-Brand Search,Text Ad
+2026-10-12,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3137.59,24860,18670,179,10,8,2,5956.72,Prospecting - Lookalike,Static Image
+2026-10-12,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3460.45,46342,39639,322,4,4,0,1637.53,Prospecting - Broad,Short Video (Reels)
+2026-09-29,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,"₹1,511.69",6358,2392,138,5,0,5,4746.63,Retargeting - Site Visitors,Static Image
+2026-10-18,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,91200.1,24048,15126,1142,29,24,5,15909.28,Non-Brand Search,Text Ad
+2026-10-23,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6150.12,40933,31627,463,16,15,1,8947.59,Prospecting - Interest,UGC Video
+2026-09-18,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,5503.21,37436,25752,605,20,16,4,13246.66,Prospecting - Interest,UGC Video
+2026-09-07,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1790.88,7329,2593,149,11,5,6,11184.5,Retargeting - Site Visitors,Static Image
+2026-10-06,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2920.98,16903,7364,359,16,6,10,7308.14,Retargeting - Cart Abandoners,Carousel
+2026-09-07,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2506.16,42630,35104,155,1,1,0,672.46,Prospecting - Broad,Long Video
+2026-09-09,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,6312.15,42813,28920,527,13,11,2,6971.09,Prospecting - Interest,Influencer Video
+2026-09-10,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5538.33,36213,25075,588,19,17,2,11176.08,Prospecting - Interest,Influencer Video
+2026-10-02,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4774.95,23401,14498,178,17,11,6,10047.63,Marketplace - Keyword,Sponsored Product
+2026-09-16,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3614.52,17744,10016,135,9,5,4,5233.74,Marketplace - Category,Sponsored Product
+2026-10-01,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,7514.03,49513,36554,780,30,21,9,18749.83,Prospecting - Interest,UGC Video
+2026-09-23,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2641.96,13874,8591,116,4,2,2,1684.11,Marketplace - Keyword,Sponsored Product
+2026-10-08,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2507.96,13480,7889,95,1,1,0,442.11,Marketplace - Keyword,Sponsored Product
+2026-10-28,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4384.14,32147,26346,309,4,4,0,2901.12,Prospecting - Lookalike,Static Image
+2026-09-22,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,1821.37,5101,3327,367,30,10,20,17859.83,Brand Search,Text Ad
+2026-10-27,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4274.91,31947,24969,313,4,4,0,2221.42,Prospecting - Lookalike,Static Image
+2026-09-13,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2425.52,6267,3806,551,85,26,59,53032.22,Brand Search,Text Ad
+2026-09-24,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5012.05,36068,25729,427,12,11,1,6333.73,Performance Max - Mixed,Dynamic / Mixed
+2026-09-18,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5401.61,17356,11742,780,22,20,2,14128.76,Non-Brand Search,Text Ad
+2026-09-28,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,5632.32,35464,25927,530,23,14,9,14175.07,Prospecting - Interest,UGC Video
+2026-09-08,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1623.78,6764,2493,110,12,4,8,11929.36,Retargeting - Site Visitors,Static Image
+2026-10-28,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1429.25,5601,2095,116,12,4,8,13847.31,Retargeting - Site Visitors,Static Image
+2026-09-21,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4396.56,61030,52299,440,7,7,0,2909.28,Prospecting - Broad,Short Video (Reels)
+2026-10-05,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4243.48,40074,27781,429,13,8,5,6686.59,Performance Max - Mixed,Dynamic / Mixed
+2026-10-17,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,6172.06,30245,17819,193,19,12,7,9564.81,,Sponsored Product
+2026-09-16,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,5041.37,24071,14288,193,18,12,6,11246.7,Marketplace - Keyword,Sponsored Product
+2026-10-10,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2295.36,5456,3615,523,38,15,23,23750.93,Brand Search,Text Ad
+2026-10-26,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3426.15,15613,21858,182,10,6,4,5173.92,Marketplace - Category,Sponsored Product
+2026-10-22,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1488.9,6317,2069,125,10,5,5,11026.71,Retargeting - Site Visitors,Static Image
+2026-10-11,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5103.2,30526,22819,378,5,5,0,2724.95,Prospecting - Interest,Influencer Video
+2026-09-26,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,3065.28,15288,9737,81,2,2,0,839.11,Marketplace - Keyword,Sponsored Product
+2026-09-03,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4816.28,41135,26838,448,18,14,4,8280.36,Performance Max - Mixed,Dynamic / Mixed
+2026-09-28,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4503.83,58842,53293,374,6,5,1,2483.0,Prospecting - Broad,Short Video (Reels)
+2026-09-13,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,3759.52,17842,10455,145,17,11,6,9382.53,Marketplace - Keyword,Sponsored Product
+2026-09-24,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,5671.32,40842,27708,506,10,9,1,5862.38,Prospecting - Interest,UGC Video
+2026-10-11,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,"₹1,445.42",5778,2116,114,6,3,3,5948.75,Retargeting - Site Visitors,Static Image
+2026-09-04,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2803.28,41756,36091,169,2,2,0,1406.01,Prospecting - Broad,Long Video
+2026-10-29,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3675.0,19913,12985,249,14,12,2,6238.74,Shopping - In-Market,Product Listing Ad
+2026-10-05,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2650.56,11925,4579,200,11,6,5,5170.54,Retargeting - Cart Abandoners,Carousel
+2026-10-27,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2362.66,13263,7946,59,1,0,1,387.71,Marketplace - Keyword,Sponsored Product
+2026-09-20,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3379.29,17204,11262,95,7,6,1,3613.36,Marketplace - Category,Sponsored Product
+2026-09-07,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4278.56,20701,12635,193,24,16,8,13904.39,Marketplace - Keyword,Sponsored Product
+2026-09-04,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,4660.77,16831,11209,802,21,20,1,13686.73,Non-Brand Search,Text Ad
+2026-09-13,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,"₹6,262.17",50892,37317,556,21,12,9,9169.14,Performance Max - Mixed,Dynamic / Mixed
+2026-09-22,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,2893.51,20527,15310,334,19,14,5,8101.67,Shopping - In-Market,Product Listing Ad
+2026-10-24,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,4854.59,16624,11001,689,43,35,8,,Non-Brand Search,Text Ad
+2026-09-23,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,4936.32,32599,22733,452,12,10,2,6474.93,Prospecting - Interest,Influencer Video
+2026-09-23,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3820.54,31653,24462,276,13,11,2,9273.94,Prospecting - Lookalike,Static Image
+2026-09-26,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,3879.18,13409,9457,582,23,21,2,13440.78,Non-Brand Search,Text Ad
+2026-10-03,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,,13780,8204,116,6,4,2,3486.92,Marketplace - Category,Sponsored Product
+2026-10-18,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,5821.24,23693,13882,188,14,12,2,7953.92,Marketplace - Keyword,Sponsored Product
+2026-10-09,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6715.49,52215,38412,565,13,5,8,7890.6,Prospecting - Interest,UGC Video
+2026-09-23,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5193.14,653,10202,15434,29,24,5,17185.27,Non-Brand Search,Text Ad
+2026-10-04,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1648.49,7600,2648,171,17,7,10,19237.33,Retargeting - Site Visitors,Static Image
+2026-09-11,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6222.11,40520,29662,508,14,12,2,9276.87,Prospecting - Interest,UGC Video
+2026-09-10,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2883.33,15080,9920,96,1,0,1,373.11,Marketplace - Keyword,Sponsored Product
+2026-09-20,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1383.46,5315,1861,94,6,2,4,5711.45,Retargeting - Site Visitors,Static Image
+2026-10-03,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,5585.83,40189,29312,607,15,11,4,9098.16,Prospecting - Interest,UGC Video
+2026-10-06,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5440.72,17154,11259,649,26,21,5,15302.93,Non-Brand Search,Text Ad
+2026-10-08,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4030.23,32296,22627,366,10,8,2,5386.05,Performance Max - Mixed,Dynamic / Mixed
+2026-10-12,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,4283.57,27180,18874,284,4,3,1,2251.6,Prospecting - Interest,Influencer Video
+2026-09-26,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3382.83,20144,13799,298,15,12,3,7451.35,Shopping - In-Market,Product Listing Ad
+2026-10-06,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3023.0,44402,36289,187,3,3,0,2255.55,Prospecting - Broad,Long Video
+2026-10-09,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2452.24,13280,8833,99,8,5,3,3336.2,Marketplace - Keyword,Sponsored Product
+2026-10-19,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,5417.55,20648,13400,203,25,14,11,13086.67,Marketplace - Keyword,Sponsored Product
+2026-10-21,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,2897.05,14638,9393,66,4,2,2,1830.69,Marketplace - Category,Sponsored Product
+2026-09-19,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,1921.12,4813,2680,409,46,7,39,24652.71,Brand Search,Text Ad
+2026-10-14,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,2997.85,17782,12899,292,15,11,4,6096.83,Shopping - In-Market,Product Listing Ad
+2026-10-16,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,6807.11,19310,13624,739,24,20,4,12773.16,Non-Brand Search,Text Ad
+2026-09-30,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3886.41,25665,20376,235,3,3,0,1944.54,Prospecting - Lookalike,Static Image
+2026-10-04,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3369.56,40691,36955,334,10,7,3,4283.56,Prospecting - Broad,Short Video (Reels)
+2026-09-22,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1673.0,8751,2975,163,14,4,10,13062.76,Retargeting - Site Visitors,Static Image
+2026-10-22,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4497.23,18190,10572,139,14,8,6,6730.99,Marketplace - Keyword,Sponsored Product
+2026-09-14,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2710.02,11192,4713,243,12,5,7,6714.61,Retargeting - Cart Abandoners,Carousel
+2026-10-17,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1906.3,6524,2309,120,11,4,7,9693.14,Retargeting - Site Visitors,Static Image
+2026-10-14,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,7224.07,52355,36379,731,25,19,6,16470.03,Prospecting - Interest,UGC Video
+2026-09-08,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,5782.83,38356,29384,543,18,15,3,11948.75,Prospecting - Interest,UGC Video
+2026-09-05,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,2998.1,13296,8040,102,5,4,1,2729.09,Marketplace - Category,Sponsored Product
+2026-10-03,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5547.33,18773,12206,854,24,20,4,15425.84,Non-Brand Search,Text Ad
+2026-10-16,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,6884.61,29637,19218,241,31,22,9,18474.06,Marketplace - Keyword,Sponsored Product
+2026-09-08,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4006.58,55415,48109,380,1,0,1,410.09,Prospecting - Broad,Short Video (Reels)
+2026-09-03,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2778.01,12605,4950,322,21,8,13,10979.55,Retargeting - Cart Abandoners,Carousel
+2026-10-11,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6408.32,41444,30398,443,6,4,2,3753.47,Prospecting - Interest,UGC Video
+2026-09-05,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1668.73,7740,2838,173,14,9,5,12778.01,Retargeting - Site Visitors,Static Image
+2026-09-25,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,2722.2,13625,8941,113,9,6,3,4912.15,Marketplace - Category,Sponsored Product
+2026-10-05,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3020.31,19289,13018,373,15,12,3,6778.4,Shopping - In-Market,Product Listing Ad
+2026-10-23,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2878.57,14612,5925,283,19,9,10,11845.22,Retargeting - Cart Abandoners,Carousel
+2026-10-15,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,6683.73,40917,31437,410,14,11,3,7121.44,Prospecting - Interest,Influencer Video
+2026-09-30,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3536.87,19873,13028,152,9,8,1,5046.85,Marketplace - Category,Sponsored Product
+2026-09-01,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5556.41,40164,27932,657,23,19,4,12471.21,Prospecting - Interest,Influencer Video
+2026-09-10,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2883.33,15080,9920,96,1,0,1,373.11,Marketplace - Keyword,Sponsored Product
+2026-09-14,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5614.25,23855,14709,1153,40,29,11,29058.97,Non-Brand Search,Text Ad
+2026-10-29,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4202.85,36576,26789,426,18,9,9,8070.02,Performance Max - Mixed,Dynamic / Mixed
+2026-10-24,Google Ads,  ggl_pmax_onionhairoil ,Sales,Onion Hair Oil,4701.16,36668,25485,351,17,11,6,8733.07,Performance Max - Mixed,Dynamic / Mixed
+2026-09-06,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,4762.1,29914,20792,439,19,16,3,11741.98,Prospecting - Interest,Influencer Video
+2026-10-27,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6648.08,51887,40611,789,27,17,10,16878.62,Prospecting - Interest,UGC Video
+2026-10-22,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5838.21,19500,12948,889,42,36,6,31213.04,Non-Brand Search,Text Ad
+2026-09-12,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3734.87,25722,19973,197,6,6,0,3886.94,Prospecting - Lookalike,Static Image
+2026-10-05,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3080.24,48542,40575,179,2,2,0,1137.21,Prospecting - Broad,Long Video
+2026-09-26,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2549.21,10395,3848,187,13,8,5,6940.81,Retargeting - Cart Abandoners,Carousel
+2026-10-01,meta ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4697.65,33073,26189,379,5,3,2,3129.71,Prospecting - Lookalike,Static Image
+2026-10-17,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,3322.65,12860,4846,246,19,11,8,8493.44,Retargeting - Cart Abandoners,Carousel
+2026-10-03,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,"₹2,180.26",5781,3464,391,35,11,24,23328.27,Brand Search,Text Ad
+2026-10-19,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,3768.27,16990,10599,119,6,6,0,2261.51,Marketplace - Keyword,Sponsored Product
+2026-10-21,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2611.71,12527,5023,265,13,5,8,6658.26,Retargeting - Cart Abandoners,Carousel
+2026-09-11,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1980.92,8798,3089,145,9,3,6,8462.0,Retargeting - Site Visitors,Static Image
+2026-09-02,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,1688.17,4968,3224,544,55,13,42,31240.47,Brand Search,Text Ad
+2026-10-30,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1524.64,6379,2359,113,3,0,3,3118.74,Retargeting - Site Visitors,Static Image
+2026-10-04,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4345.84,34408,28100,375,6,6,0,3864.86,Prospecting - Lookalike,Static Image
+2026-09-23,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1255.4,5026,1800,88,3,2,1,3076.95,Retargeting - Site Visitors,Static Image
+2026-09-01,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5562.72,21456,14046,1028,38,34,4,24543.9,Non-Brand Search,Text Ad
+2026-10-23,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,1949.81,4131,2510,358,35,9,26,22171.61,Brand Search,Text Ad
+2026-10-16,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,6043.63,36627,24391,432,11,7,4,5195.22,Performance Max - Mixed,Dynamic / Mixed
+2026-09-21,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3356.45,15503,9607,127,10,7,3,4864.02,Marketplace - Category,Sponsored Product
+2026-10-03,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4839.8,20603,12554,193,11,9,2,7016.43,Marketplace - Keyword,Sponsored Product
+2026-09-17,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,"₹2,070.60",6033,3522,496,31,7,24,18184.99,Brand Search,Text Ad
+2026-10-06,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2107.16,5221,3400,362,33,9,24,21030.65,Brand Search,Text Ad
+2026-09-04,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5564.52,40001,28264,641,10,5,5,5218.8,Prospecting - Interest,Influencer Video
+2026-09-28,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3648.96,27434,21062,317,7,6,1,4200.5,Prospecting - Lookalike,Static Image
+2026-10-05,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3308.62,45198,35533,302,1,1,0,436.76,Prospecting - Broad,Short Video (Reels)
+2026-10-15,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1623.84,6462,2394,162,11,4,7,10903.64,Retargeting - Site Visitors,Static Image
+2026-10-24,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2621.97,13782,5555,241,12,3,9,6674.87,Retargeting - Cart Abandoners,Carousel
+2026-09-09,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4800.93,19649,11756,176,16,10,6,9568.31,Marketplace - Keyword,Sponsored Product
+2026-10-22,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5389.97,38182,27345,374,10,10,0,6080.04,Prospecting - Interest,Influencer Video
+2026-09-06,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5564.13,17064,11209,698,21,18,3,12392.93,Non-Brand Search,Text Ad
+2026-10-24,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3691.52,63289,51028,271,3,3,0,1953.27,Prospecting - Broad,Long Video
+2026-10-29,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3733.03,25666,20472,215,3,2,1,1762.33,Prospecting - Lookalike,
+2026-10-30,meta ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3756.73,24437,20668,261,11,10,1,6108.12,Prospecting - Lookalike,Static Image
+2026-10-14,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2834.56,13360,5137,343,35,11,24,18529.04,Retargeting - Cart Abandoners,Carousel
+2026-10-03,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4133.56,59118,52783,395,6,5,1,2544.01,Prospecting - Broad,Short Video (Reels)
+2026-09-25,GOOGLE ADS,GGL_Search_Brand,Conversions,Hair Growth Serum,1924.27,5327,3205,405,36,12,24,23307.36,Brand Search,Text Ad
+2026-10-17,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,6551.77,20384,13466,852,51,39,12,30586.49,Non-Brand Search,Text Ad
+2026-10-05,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,1887.17,4756,2720,351,29,12,17,16622.37,Brand Search,Text Ad
+2026-10-12,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2517.99,6584,3918,541,42,10,32,30359.43,Brand Search,Text Ad
+2026-10-15,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2623.42,5808,3593,580,62,22,40,37694.4,Brand Search,Text Ad
+2026-10-09,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3440.36,19900,14140,390,10,7,3,4074.07,Shopping - In-Market,Product Listing Ad
+2026-10-16,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,4012.36,22701,15523,266,15,14,1,5555.34,Shopping - In-Market,Product Listing Ad
+2026-10-13,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2544.26,12827,5409,244,14,4,10,7509.8,Retargeting - Cart Abandoners,Carousel
+2026-09-21,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1005.1,4383,1659,88,5,0,5,4246.28,Retargeting - Site Visitors,Static Image
+2026-10-25,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4942.37,47290,32396,372,12,9,3,6944.87,Prospecting - Lookalike,Static Image
+2026-10-09,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2660.92,12895,4328,264,11,7,4,5968.76,Retargeting - Cart Abandoners,Carousel
+2026-10-01,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2936.61,12760,4459,270,17,7,10,8053.45,Retargeting - Cart Abandoners,Carousel
+2026-10-06,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4884.83,22821,12294,202,22,17,5,13243.76,Marketplace - Keyword,Sponsored Product
+2026-10-10,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,4673.92,16189,10141,692,29,22,7,17914.61,Non-Brand Search,Text Ad
+28/09/2026,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3565.7,67227,54181,313,3,3,0,1959.26,Prospecting - Broad,Long Video
+2026-09-09,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,1952.81,5540,3686,510,51,11,40,36000.02,Brand Search,Text Ad
+2026-10-02,Meta Ads ,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,5956.01,38062,28288,435,16,15,1,9029.87,Prospecting - Interest,UGC Video
+2026-09-18,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2285.46,5473,3873,443,33,10,23,17977.66,Brand Search,Text Ad
+2026-09-12,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4599.88,37930,25667,388,15,12,3,7168.76,Performance Max - Mixed,Dynamic / Mixed
+2026-09-21,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,5842.28,44644,30996,517,13,10,3,8685.99,Prospecting - Interest,UGC Video
+2026-10-24,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4006.34,28494,21916,285,9,7,2,5629.6,Prospecting - Lookalike,Static Image
+2026-09-12,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,4173.17,19563,12224,134,7,4,3,3536.63,Marketplace - Category,Sponsored Product
+2026-09-01,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6737.68,50683,39215,783,23,16,7,14700.23,Prospecting - Interest,UGC Video
+2026-10-12,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5746.28,46567,32786,582,16,13,3,8184.62,Performance Max - Mixed,Dynamic / Mixed
+2026-10-29,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,3146.65,14991,9715,145,18,10,8,9763.2,Marketplace - Keyword,Sponsored Product
+2026-09-27,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2878.1,13828,8550,105,1,1,0,412.61,Marketplace - Keyword,Sponsored Product
+2026-09-03,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3240.96,20138,15534,290,4,3,1,1769.99,Shopping - In-Market,Product Listing Ad
+2026-10-09,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2716.94,44936,35037,144,3,3,0,1924.03,Prospecting - Broad,Long Video
+2026-09-25,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4675.18,37243,26819,485,19,8,11,8725.05,Performance Max - Mixed,
+2026-09-19,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,6159.31,40378,30337,520,20,17,3,11281.07,Prospecting - Interest,Influencer Video
+2026-10-10,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2499.12,13023,8975,82,4,1,3,1512.51,Marketplace - Keyword,Sponsored Product
+2026-09-15,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1265.68,5595,1966,123,6,3,3,6172.38,Retargeting - Site Visitors,Static Image
+2026-10-27,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4227.51,18709,10765,191,14,9,5,8481.14,Marketplace - Keyword,Sponsored Product
+2026-09-16,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2099.16,10015,3914,227,21,10,11,8681.82,Retargeting - Cart Abandoners,Carousel
+2026-09-28,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4248.68,35700,27693,429,18,13,5,8626.12,Performance Max - Mixed,Dynamic / Mixed
+2026-09-05,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,5980.9,40495,29078,540,15,15,0,9824.63,Prospecting - Interest,UGC Video
+2026-10-25,google,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3169.76,18643,13334,313,12,10,2,5082.88,Shopping - In-Market,Product Listing Ad
+2026-09-25,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,"₹1,318.39",5943,2196,117,10,7,3,9772.74,Retargeting - Site Visitors,Static Image
+2026-10-01,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1522.45,6757,2386,107,10,6,4,9682.18,Retargeting - Site Visitors,Static Image
+2026-09-28,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5796.95,18921,12133,723,16,14,2,10086.44,Non-Brand Search,Text Ad
+2026-09-04,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3782.05,18248,11749,192,14,11,3,7320.39,Marketplace - Category,Sponsored Product
+2026-10-10,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1245.72,6052,2342,97,12,6,6,12804.14,Retargeting - Site Visitors,Static Image
+2026-10-28,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,6136.77,39637,27930,371,15,13,2,7853.47,Prospecting - Interest,Influencer Video
+2026-09-21,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3883.45,29146,25073,240,3,3,0,1694.88,Prospecting - Lookalike,Static Image
+2026-09-15,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4307.26,22156,12952,173,21,11,10,12695.63,Marketplace - Keyword,Sponsored Product
+2026-09-27,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6541.46,45113,34742,559,21,16,5,13861.33,Prospecting - Interest,UGC Video
+2026-10-03,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2189.46,11274,6558,91,3,3,0,1444.42,Marketplace - Keyword,Sponsored Product
+2026-10-07,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3816.78,50195,43450,279,2,2,0,887.36,Prospecting - Broad,Short Video (Reels)
+2026-10-01,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2837.64,42958,33320,161,2,1,1,1370.64,Prospecting - Broad,Long Video
+2026-10-14,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1737.98,7190,2503,124,7,4,3,6378.48,Retargeting - Site Visitors,Static Image
+2026-09-30,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,3749.77,29273,20472,279,12,9,3,5483.06,Performance Max - Mixed,Dynamic / Mixed
+16/10/2026,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,4684.14,21857,14115,178,15,13,2,7781.57,Marketplace - Category,Sponsored Product
+2026-10-24,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5144.01,30520,21123,310,7,6,1,,Prospecting - Interest,Influencer Video
+2026-09-05,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2366.95,6091,3899,548,59,20,39,34103.62,Brand Search,Text Ad
+2026-10-26,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,,18155,11576,176,15,7,8,9566.73,Marketplace - Keyword,Sponsored Product
+2026-09-28,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2255.56,10470,4070,202,9,3,6,4805.31,Retargeting - Cart Abandoners,Carousel
+2026-09-05,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3428.54,20067,14549,316,8,4,4,3818.47,Shopping - In-Market,Product Listing Ad
+2026-09-15,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,4837.0,32659,25512,418,16,10,6,10110.87,Prospecting - Interest,UGC Video
+2026-10-25,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,3476.59,17175,6998,370,34,14,20,17980.49,Retargeting - Cart Abandoners,Carousel
+2026-09-27,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3246.46,29612,24196,270,11,6,5,6239.94,Prospecting - Lookalike,Static Image
+2026-09-11,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2115.76,5922,3628,513,27,7,20,16340.25,Brand Search,Text Ad
+2026-10-16,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,3085.53,13069,4964,219,12,4,8,5678.13,Retargeting - Cart Abandoners,Carousel
+2026-09-27,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3495.61,16113,10167,133,10,8,2,5516.86,Marketplace - Category,Sponsored Product
+2026-10-06,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1721.11,7478,2903,141,8,5,3,8438.39,Retargeting - Site Visitors,Static Image
+2026-10-30,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6003.44,39685,28754,561,13,10,3,7424.34,Prospecting - Interest,UGC Video
+2026-09-14,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3422.78,16791,9819,108,4,2,2,1811.13,Marketplace - Category,Sponsored Product
+2026-09-22,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3524.62,55581,47613,205,1,1,0,523.89,Prospecting - Broad,Long Video
+"Oct 15, 2026",Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,3494.36,15326,5789,354,31,12,19,16574.25,Retargeting - Cart Abandoners,Carousel
+2026-10-25,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1416.58,7230,2701,139,10,4,6,9415.23,Retargeting - Site Visitors,Static Image
+2026-09-05,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,6541.05,21791,14255,805,42,32,10,26912.83,Non-Brand Search,Text Ad
+2026-10-23,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5180.82,36231,23210,375,8,6,2,4266.59,Prospecting - Interest,Influencer Video
+2026-10-12,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,7349.59,45820,36654,598,22,15,7,13426.14,Prospecting - Interest,UGC Video
+2026-09-30,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1529.81,6681,2350,103,7,4,3,6774.78,Retargeting - Site Visitors,Static Image
+2026-09-10,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,4721.25,14794,9946,594,17,15,2,10487.54,Non-Brand Search,Text Ad
+2026-09-20,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4848.81,34281,27051,364,4,3,1,2530.68,Prospecting - Lookalike,Static Image
+2026-09-29,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6540.92,46189,33715,629,22,18,4,14280.23,Prospecting - Interest,UGC Video
+2026-09-15,Meta Ads,  meta_prospecting_vitc_influencer ,Conversions,Vitamin C Face Serum,"₹5,145.74",33397,21531,484,18,13,5,9429.96,Prospecting - Interest,Influencer Video
+2026-10-03,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3149.64,53095,42572,220,4,4,0,2845.44,Prospecting - Broad,Long Video
+2026-10-09,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5555.78,18420,11933,728,23,18,5,14320.27,Non-Brand Search,Text Ad
+2026-09-24,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,1999.39,4877,3207,404,37,10,27,21163.75,Brand Search,Text Ad
+2026-09-14,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1323.4,6107,2071,118,9,6,3,8827.84,Retargeting - Site Visitors,Static Image
+2026-09-25,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4340.4,33350,25546,297,6,6,0,3702.66,Prospecting - Lookalike,Static Image
+2026-09-17,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2548.63,14114,5579,301,17,10,7,9949.06,Retargeting - Cart Abandoners,Carousel
+2026-10-22,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4150.38,32561,24969,252,3,3,0,2061.95,Prospecting - Lookalike,Static Image
+2026-09-15,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3759.59,51915,49863,411,5,5,0,2392.93,Prospecting - Broad,Short Video (Reels)
+2026-10-29,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2899.75,16364,6145,281,17,12,5,9524.79,Retargeting - Cart Abandoners,Carousel
+2026-09-17,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3304.14,23402,15716,332,15,10,5,6228.39,Shopping - In-Market,Product Listing Ad
+2026-09-10,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2851.03,14351,5737,299,17,7,10,9723.25,Retargeting - Cart Abandoners,Carousel
+2026-10-08,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1508.37,6524,2530,120,8,1,7,7896.11,Retargeting - Site Visitors,Static Image
+2026-09-05,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2587.98,10818,4342,205,15,8,7,7728.26,Retargeting - Cart Abandoners,Carousel
+2026-09-28,e-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2564.17,13685,8441,96,4,3,1,1843.67,Marketplace - Keyword,Sponsored Product
+2026-10-17,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4758.53,57423,46905,358,8,7,1,3423.66,Prospecting - Broad,Short Video (Reels)
+2026-09-29,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,6348.94,47089,34035,587,16,13,3,8307.98,Prospecting - Interest,Influencer Video
+2026-10-12,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2046.11,11459,7108,66,1,1,0,428.1,Marketplace - Keyword,Sponsored Product
+2026-10-14,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3815.79,31518,22582,318,10,8,2,5553.14,Prospecting - Lookalike,Static Image
+2026-09-03,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3373.23,15070,8740,99,10,7,3,4790.08,Marketplace - Category,Sponsored Product
+2026-10-18,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,5094.97,55408,43339,391,8,8,0,3532.62,Prospecting - Broad,Short Video (Reels)
+2026-09-29,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3530.61,18247,10876,167,6,3,3,3389.08,Marketplace - Category,Sponsored Product
+2026-09-02,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,,7327,2732,156,9,2,7,10520.35,Retargeting - Site Visitors,Static Image
+2026-10-06,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5038.0,31168,23907,408,12,9,3,6871.31,Prospecting - Interest,Influencer Video
+2026-09-07,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,3105.46,14369,5023,304,21,8,13,10899.72,Retargeting - Cart Abandoners,Carousel
+2026-10-16,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2937.6,6764,4233,650,56,23,33,33033.85,Brand Search,Text Ad
+2026-10-04,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3849.13,18655,12108,116,12,5,7,6281.71,Marketplace - Category,Sponsored Product
+2026-10-07,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6657.8,43010,35406,634,16,11,5,10073.3,Prospecting - Interest,UGC Video
+2026-09-20,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2993.41,12848,4846,243,16,8,8,8181.78,Retargeting - Cart Abandoners,Carousel
+2026-09-04,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1541.3,6993,2583,117,5,2,3,5465.42,Retargeting - Site Visitors,Static Image
+2026-09-28,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5848.57,42700,30760,580,18,14,4,9376.14,Prospecting - Interest,Influencer Video
+2026-10-24,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3565.34,23162,15848,337,26,22,4,10697.01,Shopping - In-Market,Product Listing Ad
+2026-09-06,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5144.93,42804,36251,417,20,11,9,10289.64,Performance Max - Mixed,Dynamic / Mixed
+2026-10-03,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4133.56,59118,52783,395,6,5,1,2544.01,Prospecting - Broad,Short Video (Reels)
+2026-10-19,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,7369.38,24789,15647,993,44,38,6,23515.21,Non-Brand Search,Text Ad
+2026-09-19,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4085.31,60601,51469,523,7,7,0,3300.09,Prospecting - Broad,Short Video (Reels)
+2026-10-18,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,5176.11,26414,17811,388,22,19,3,8028.38,Shopping - In-Market,Product Listing Ad
+2026-10-07,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4247.06,17744,9985,136,7,2,5,4345.93,Marketplace - Keyword,Sponsored Product
+2026-09-02,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,4683.59,32284,23239,528,7,6,1,3529.08,Prospecting - Interest,Influencer Video
+2026-10-13,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1328.04,5907,2135,125,6,3,3,6229.43,Retargeting - Site Visitors,Static Image
+2026-09-10,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5136.11,40673,27474,498,12,7,5,6298.46,Performance Max - Mixed,Dynamic / Mixed
+2026-09-27,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,1926.99,5197,2921,432,47,13,34,29303.79,Brand Search,Text Ad
+2026-09-08,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3593.89,18250,12525,120,14,8,6,7974.39,Marketplace - Category,Sponsored Product
+2026-09-27,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4013.33,52688,50369,419,8,7,1,3375.6,Prospecting - Broad,Short Video (Reels)
+2026-10-26,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5629.12,32427,20717,302,7,6,1,4158.95,Prospecting - Interest,Influencer Video
+2026-10-20,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3687.59,59166,50915,261,4,3,1,2290.25,Prospecting - Broad,Long Video
+2026-09-14,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4249.91,30425,21229,322,6,3,3,3429.86,Prospecting - Lookalike,Static Image
+2026-10-15,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,5558.18,35994,27771,362,17,12,5,9509.91,Prospecting - Lookalike,Static Image
+2026-10-17,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,6603.24,26849,16654,227,31,24,7,17956.01,Marketplace - Keyword,Sponsored Product
+2026-10-01,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2535.11,14718,9185,94,3,1,2,1109.63,Marketplace - Keyword,Sponsored Product
+2026-09-17,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,7154.02,53179,41963,778,31,26,5,19130.83,Prospecting - Interest,UGC Video
+2026-09-20,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,6471.62,23737,16659,938,32,27,5,16098.28,Non-Brand Search,Text Ad
+2026-10-02,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4116.26,27519,19557,269,4,2,2,2722.32,Prospecting - Lookalike,Static Image
+2026-09-29,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4042.88,28690,20445,242,4,3,1,2450.92,Prospecting - Lookalike,Static Image
+2026-10-01,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5565.83,19097,12919,833,19,15,4,11821.48,Non-Brand Search,Text Ad
+2026-10-13,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3933.93,30264,23161,306,7,6,1,4589.45,Prospecting - Lookalike,Static Image
+2026-10-29,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3601.31,47632,43641,356,3,3,0,1465.67,Prospecting - Broad,Short Video (Reels)
+2026-09-10,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3137.88,55954,48674,295,6,6,0,4077.45,Prospecting - Broad,Long Video
+2026-09-07,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5355.32,33036,24328,540,17,13,4,9288.94,Prospecting - Interest,Influencer Video
+2026-09-03,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3202.82,44271,38545,193,1,1,0,623.69,Prospecting - Broad,Long Video
+2026-10-08,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2674.44,11308,4241,207,11,3,8,6376.49,Retargeting - Cart Abandoners,Carousel
+2026-10-30,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5518.84,18649,12004,826,31,26,5,17361.45,Non-Brand Search,Text Ad
+2026-10-25,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,3882.23,21387,13322,196,28,16,12,17520.47,,Sponsored Product
+2026-10-05,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,3937.84,17013,10499,144,5,2,3,3132.3,,Sponsored Product
+2026-09-19,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6642.92,50788,39382,559,14,11,3,8200.59,Prospecting - Interest,UGC Video
+2026-10-28,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4418.2,37193,28438,422,19,12,7,8996.06,Performance Max - Mixed,Dynamic / Mixed
+2026-09-02,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2776.65,13830,5312,265,10,4,6,4880.54,Retargeting - Cart Abandoners,Carousel
+2026-10-27,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5320.74,46943,32096,602,26,20,6,12450.06,Performance Max - Mixed,Dynamic / Mixed
+2026-10-05,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,4840.14,33471,24702,495,13,10,3,7621.7,Prospecting - Interest,Influencer Video
+2026-09-14,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5614.25,23855,14709,1153,40,29,11,29058.97,Non-Brand Search,Text Ad
+2026-10-08,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3002.66,14302,8111,104,5,5,0,2653.8,Marketplace - Category,Sponsored Product
+2026-09-12,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1342.31,6140,2404,99,11,6,5,11588.23,Retargeting - Site Visitors,Static Image
+2026-10-15,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,4275.04,55319,45530,219,5,3,2,2843.69,Prospecting - Broad,Long Video
+2026-09-25,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,3058.89,16740,10508,124,5,5,0,2222.3,Marketplace - Keyword,Sponsored Product
+2026-09-07,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5020.52,34702,23836,317,12,8,4,5830.61,Performance Max - Mixed,Dynamic / Mixed
+2026-09-02,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3389.28,47418,42041,312,2,1,1,822.98,Prospecting - Broad,
+2026-09-05,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3630.93,47516,37891,370,8,7,1,3816.45,Prospecting - Broad,Short Video (Reels)
+2026-10-17,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2933.91,6455,3750,519,74,22,52,46893.61,Brand Search,Text Ad
+2026-10-11,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3386.12,19175,14576,303,22,16,6,9901.39,Shopping - In-Market,Product Listing Ad
+2026-09-21,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2028.06,5244,3528,529,37,11,26,24042.61,Brand Search,Text Ad
+2026-10-21,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2319.09,6233,3526,498,54,20,34,33631.28,Brand Search,Text Ad
+2026-09-10,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2113.04,5541,3471,569,47,17,30,30660.87,Brand Search,Text Ad
+2026-09-27,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,5724.08,27728,15095,233,12,9,3,6951.08,Marketplace - Keyword,Sponsored Product
+2026-10-13,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4376.37,20616,12136,202,20,13,7,11544.95,Marketplace - Keyword,Sponsored Product
+2026-10-09,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3372.68,15794,11304,140,8,7,1,3947.1,Marketplace - Category,Sponsored Product
+2026-09-19,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,-3299.5,25632,19349,251,8,6,2,5098.64,Prospecting - Lookalike,Static Image
+2026-10-04,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,3372.24,26879,19505,273,7,3,4,3425.96,Performance Max - Mixed,Dynamic / Mixed
+2026-09-08,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3518.16,57873,48154,235,4,4,0,2742.05,Prospecting - Broad,Long Video
+2026-09-12,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,3564.2,14352,8731,110,9,5,4,5729.46,Marketplace - Keyword,Sponsored Product
+2026-10-25,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,3569.27,18221,11020,134,3,3,0,1118.67,Marketplace - Keyword,Sponsored Product
+2026-10-11,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4422.58,22972,14118,191,21,15,6,12997.89,Marketplace - Keyword,Sponsored Product
+2026-10-30,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3302.87,17668,10797,120,10,5,5,5700.13,Marketplace - Category,Sponsored Product
+2026-10-27,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2102.4,5809,3849,386,35,10,25,20365.89,Brand Search,Text Ad
+2026-09-26,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2752.71,44409,35136,178,1,0,1,630.96,Prospecting - Broad,Long Video
+2026-09-22,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4450.06,42719,30479,469,22,14,8,10711.04,Performance Max - Mixed,Dynamic / Mixed
+2026-09-08,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3980.55,31840,27599,309,8,7,1,5352.53,Prospecting - Lookalike,Static Image
+2026-10-27,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3493.62,21044,14588,341,23,21,2,9805.54,Shopping - In-Market,Product Listing Ad
+18/09/2026,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4205.77,31720,23931,308,4,3,1,2583.53,Prospecting - Lookalike,Static Image
+2026-10-16,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4757.65,30705,23354,313,8,3,5,,Prospecting - Lookalike,Static Image
+2026-09-01,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3085.37,22218,14660,307,14,11,3,6718.59,Shopping - In-Market,Product Listing Ad
+2026-10-29,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2041.69,45072,38364,221,2,2,0,1118.18,Prospecting - Broad,Long Video
+2026-09-20,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5628.91,44310,34132,556,27,19,8,13650.18,Performance Max - Mixed,Dynamic / Mixed
+2026-09-15,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3539.46,20837,13297,104,4,2,2,1976.77,Marketplace - Category,Sponsored Product
+2026-09-11,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2934.02,13815,8706,93,1,1,0,388.62,Marketplace - Keyword,Sponsored Product
+2026-10-27,Google ads ,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3421.96,67762,55362,225,4,4,0,2264.15,Prospecting - Broad,Long Video
+2026-09-11,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,2229.2,14494,9972,250,12,7,5,5125.71,Shopping - In-Market,Product Listing Ad
+2026-10-29,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2891.94,14709,8917,103,5,3,2,1785.51,Marketplace - Keyword,Sponsored Product
+2026-10-24,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4513.16,20762,11769,193,18,11,7,12123.0,Marketplace - Keyword,Sponsored Product
+2026-09-06,google,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3204.01,48646,38650,207,4,4,0,2304.03,Prospecting - Broad,Long Video
+2026-09-04,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2403.05,6106,3773,588,62,15,47,,Brand Search,Text Ad
+2026-09-10,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4728.78,39455,30368,342,2,2,0,1141.46,Prospecting - Lookalike,Static Image
+2026-09-09,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5589.55,46422,31381,494,17,11,6,8675.47,Performance Max - Mixed,Dynamic / Mixed
+2026-10-11,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,3096.22,14314,6038,327,16,8,8,9074.09,Retargeting - Cart Abandoners,Carousel
+2026-09-12,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,-6036.56,47077,34562,594,20,15,5,11793.7,Prospecting - Interest,UGC Video
+2026-09-25,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2612.56,13867,5384,239,11,5,6,4773.77,Retargeting - Cart Abandoners,Carousel
+2026-10-08,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3791.07,24194,17276,352,17,14,3,6952.58,Shopping - In-Market,Product Listing Ad
+2026-09-08,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5571.83,17953,12534,797,38,33,5,27558.6,Non-Brand Search,Text Ad
+2026-10-27,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2916.84,16014,6337,331,8,4,4,4111.01,Retargeting - Cart Abandoners,Carousel
+2026-09-21,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,7435.43,23666,16348,857,31,27,4,20799.28,Non-Brand Search,Text Ad
+2026-10-12,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3920.03,23334,15468,439,16,9,7,7152.85,Shopping - In-Market,Product Listing Ad
+2026-09-18,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3475.97,16670,10845,115,7,4,3,3858.38,Marketplace - Category,Sponsored Product
+2026-09-15,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2735.5,12794,8207,70,0,0,0,0.0,Marketplace - Keyword,Sponsored Product
+2026-10-22,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4141.75,52487,46459,410,9,7,2,3739.21,Prospecting - Broad,Short Video (Reels)
+2026-10-01,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4287.22,56718,49555,497,4,3,1,1990.76,Prospecting - Broad,Short Video (Reels)
+2026-10-11,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2849.38,44593,38394,201,7,6,1,5090.08,Prospecting - Broad,Long Video
+2026-09-24,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2476.68,10554,3868,216,21,8,13,11329.08,Retargeting - Cart Abandoners,Carousel
+2026-10-10,Google Ads,  ggl_shopping_sunscreen ,Sales,Sunscreen SPF 50,3368.91,20525,15387,340,11,5,6,4469.63,Shopping - In-Market,Product Listing Ad
+2026-09-23,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,3048.88,14687,5678,359,20,5,15,10833.01,Retargeting - Cart Abandoners,Carousel
+2026-10-29,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5137.7,32752,23478,303,7,6,1,3666.74,Prospecting - Interest,Influencer Video
+2026-09-09,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5105.9,18451,11667,797,22,17,5,12304.47,Non-Brand Search,Text Ad
+2026-09-13,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2859.47,51332,41893,209,2,1,1,1187.88,Prospecting - Broad,Long Video
+2026-09-03,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2733.34,15079,10113,115,2,1,1,748.88,Marketplace - Keyword,Sponsored Product
+2026-09-09,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6216.82,44225,32921,548,12,9,3,8099.89,Prospecting - Interest,UGC Video
+2026-10-07,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2894.14,14960,5662,294,19,13,6,10244.24,Retargeting - Cart Abandoners,Carousel
+2026-10-30,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3548.47,21186,15256,305,24,18,6,9142.12,Shopping - In-Market,Product Listing Ad
+2026-09-27,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3273.03,18461,12266,324,11,10,1,5153.77,Shopping - In-Market,Product Listing Ad
+2026-09-17,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,6301.9,20414,12785,759,27,21,6,17213.6,Non-Brand Search,Text Ad
+2026-09-27,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5331.58,36052,25544,464,13,10,3,7347.25,Prospecting - Interest,Influencer Video
+2026-10-12,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5871.21,19281,13346,734,23,20,3,15239.76,,Text Ad
+2026-10-07,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4300.25,38881,26945,468,16,11,5,7590.38,Performance Max - Mixed,Dynamic / Mixed
+2026-10-09,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1626.75,6122,2175,120,7,4,3,7371.61,Retargeting - Site Visitors,Static Image
+2026-09-16,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5493.17,34644,23114,406,12,11,1,6433.93,Prospecting - Interest,Influencer Video
+2026-09-22,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4862.39,20666,11671,195,19,10,9,9962.46,Marketplace - Keyword,Sponsored Product
+2026-10-30,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,3827.03,15522,9155,112,9,7,2,5165.57,Marketplace - Keyword,Sponsored Product
+2026-09-21,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4315.32,36769,25644,435,20,12,8,8835.73,Performance Max - Mixed,Dynamic / Mixed
+2026-09-29,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3896.39,50378,43340,385,4,3,1,1815.55,Prospecting - Broad,Short Video (Reels)
+2026-10-18,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5727.38,35007,23962,352,13,9,4,6515.27,Prospecting - Interest,Influencer Video
+2026-09-02,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,7185.93,46655,35777,622,20,15,5,12612.09,Prospecting - Interest,UGC Video
+2026-10-12,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1660.08,6695,2545,158,10,5,5,9713.86,Retargeting - Site Visitors,Static Image
+2026-09-30,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,6733.94,40394,29547,506,9,6,3,5479.92,Prospecting - Interest,Influencer Video
+2026-09-26,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,6073.06,37615,25363,528,9,8,1,5388.33,Prospecting - Interest,Influencer Video
+2026-09-30,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4488.26,22906,13181,237,15,7,8,10055.38,Marketplace - Keyword,Sponsored Product
+2026-10-04,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4421.03,20589,12162,164,16,9,7,9318.94,Marketplace - Keyword,Sponsored Product
+2026-10-06,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4182.05,36112,26947,321,5,4,1,3155.83,Prospecting - Lookalike,Static Image
+2026-10-07,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2986.87,14947,8958,93,4,2,2,1680.36,Marketplace - Keyword,Sponsored Product
+2026-10-13,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,5807.26,41230,33618,656,22,20,2,13933.12,Prospecting - Interest,UGC Video
+2026-09-21,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4425.76,18380,10885,137,15,9,6,9780.16,Marketplace - Keyword,Sponsored Product
+2026-10-12,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2517.99,6584,3918,541,42,10,32,30359.43,Brand Search,Text Ad
+2026-10-20,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,3967.91,18042,11190,125,2,1,1,792.91,Marketplace - Keyword,Sponsored Product
+2026-09-29,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3379.45,58347,49258,236,3,3,0,1705.28,Prospecting - Broad,Long Video
+2026-10-16,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,8612.43,47554,37309,598,22,19,3,11331.92,Prospecting - Interest,UGC Video
+2026-10-12,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2903.83,13818,5021,273,14,6,8,,Retargeting - Cart Abandoners,Carousel
+2026-09-30,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2954.61,51978,42337,217,1,1,0,539.42,Prospecting - Broad,Long Video
+2026-10-19,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,7715.74,41243,27706,396,18,13,5,10920.84,Prospecting - Interest,Influencer Video
+2026-10-20,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5759.55,44595,32900,424,20,11,9,9331.51,Performance Max - Mixed,Dynamic / Mixed
+2026-10-06,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3977.47,19982,12173,168,7,2,5,3657.64,Marketplace - Category,Sponsored Product
+2026-09-24,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,3326.1,16899,11202,114,4,4,0,1706.75,Marketplace - Keyword,Sponsored Product
+2026-10-06,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,3080.17,24595,17526,251,5,4,1,2551.13,Performance Max - Mixed,Dynamic / Mixed
+2026-09-16,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1683.76,7656,2578,129,7,2,5,6237.04,Retargeting - Site Visitors,Static Image
+2026-10-21,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4184.84,49892,40353,361,11,10,1,4683.5,Prospecting - Broad,Short Video (Reels)
+2026-10-27,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,4368.1,19859,14125,144,6,3,3,3517.07,Marketplace - Category,Sponsored Product
+2026-09-17,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4206.07,31837,23441,261,1,1,0,715.89,Prospecting - Lookalike,Static Image
+2026-10-04,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3437.24,60229,48630,224,2,1,1,1210.04,Prospecting - Broad,Long Video
+2026-10-11,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2940.79,18086,10918,112,6,4,2,2323.21,Marketplace - Keyword,Sponsored Product
+2026-09-08,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,6265.02,41056,29644,648,21,16,5,10255.21,Prospecting - Interest,Influencer Video
+2026-10-27,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,6124.62,20334,14776,777,25,24,1,13868.06,Non-Brand Search,Text Ad
+2026-09-11,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,3744.36,14280,7647,116,23,15,8,14400.21,Marketplace - Keyword,Sponsored Product
+2026-09-26,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3850.47,27772,21295,238,3,3,0,1970.96,Prospecting - Lookalike,Static Image
+2026-10-20,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,8324.81,23522,15482,1127,37,32,5,20991.71,Non-Brand Search,Text Ad
+2026-10-16,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4003.17,44812,39981,327,2,1,1,805.21,Prospecting - Broad,Short Video (Reels)
+2026-10-02,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1558.48,5890,2222,99,9,4,5,8553.22,Retargeting - Site Visitors,Static Image
+2026-10-24,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4526.37,62114,58495,307,5,4,1,2396.86,Prospecting - Broad,Short Video (Reels)
+2026-10-19,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5447.29,47373,31791,487,20,15,5,7734.01,Performance Max - Mixed,Dynamic / Mixed
+2026-10-26,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5785.23,20078,13619,919,23,16,7,15794.43,Non-Brand Search,Text Ad
+2026-10-05,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3674.52,18352,11939,114,9,4,5,4796.08,Marketplace - Category,Sponsored Product
+2026-09-19,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3706.64,19257,11654,123,9,7,2,4671.83,Marketplace - Category,Sponsored Product
+2026-10-30,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5844.71,47784,34110,497,11,8,3,4811.95,Performance Max - Mixed,Dynamic / Mixed
+2026-09-02,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,6512.7,19870,13372,841,26,20,6,14655.56,Non-Brand Search,Text Ad
+2026-09-28,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4699.06,176,11534,19816,22,16,6,14129.37,Marketplace - Keyword,Sponsored Product
+2026-09-03,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4101.59,57646,49160,425,6,6,0,2935.13,Prospecting - Broad,Short Video (Reels)
+2026-09-18,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2674.4,43881,34144,169,2,2,0,1320.22,Prospecting - Broad,Long Video
+"Oct 03, 2026",Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1189.21,5521,1933,78,5,3,2,4758.06,Retargeting - Site Visitors,Static Image
+2026-09-19,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,6108.78,19039,13401,803,35,29,6,22387.08,Non-Brand Search,Text Ad
+2026-10-20,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,9357.72,59545,44773,660,38,28,10,20391.72,Prospecting - Interest,UGC Video
+2026-09-06,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,5363.42,37959,28596,518,22,17,5,12306.48,Prospecting - Interest,UGC Video
+2026-10-20,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3247.85,16888,10727,234,12,8,4,5602.8,Shopping - In-Market,Product Listing Ad
+2026-10-25,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3564.24,45057,42726,303,6,2,4,2856.88,Prospecting - Broad,Short Video (Reels)
+2026-09-07,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,4343.23,29370,19392,408,13,13,0,5236.51,Shopping - In-Market,Product Listing Ad
+2026-09-20,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2388.34,13188,9253,65,1,0,1,470.17,Marketplace - Keyword,Sponsored Product
+2026-09-18,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3108.69,20727,13606,392,19,13,6,8430.31,Shopping - In-Market,Product Listing Ad
+2026-10-11,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3241.45,18714,12138,141,19,13,6,11024.35,Marketplace - Category,Sponsored Product
+2026-10-17,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,6324.22,34540,28791,288,14,11,3,7373.4,Prospecting - Lookalike,Static Image
+2026-09-24,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5441.24,19620,13728,926,29,28,1,17384.51,Non-Brand Search,Text Ad
+2026-09-09,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,"₹3,318.46",21985,14806,371,13,11,2,6293.5,Shopping - In-Market,Product Listing Ad
+2026-10-17,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,4757.05,79994,63462,352,4,3,1,2717.67,Prospecting - Broad,Long Video
+2026-09-13,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6671.6,41498,33011,612,13,8,5,8064.55,Prospecting - Interest,UGC Video
+2026-09-07,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3387.36,19173,11717,101,6,4,2,3098.51,Marketplace - Category,Sponsored Product
+2026-09-11,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3336.15,41599,36233,307,4,4,0,2046.49,Prospecting - Broad,Short Video (Reels)
+2026-10-13,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,4049.63,28544,19992,303,4,2,2,2095.88,Prospecting - Interest,Influencer Video
+2026-09-30,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6209.91,49829,69760,692,21,17,4,12354.29,Prospecting - Interest,UGC Video
+2026-10-20,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,3625.91,16814,6443,394,35,17,18,16573.19,Retargeting - Cart Abandoners,Carousel
+2026-09-01,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3696.74,46509,37659,325,4,3,1,1763.13,Prospecting - Broad,Short Video (Reels)
+2026-10-11,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3673.3,30769,22961,302,11,7,4,7047.31,Prospecting - Lookalike,Static Image
+2026-09-18,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4809.65,66534,54609,461,10,10,0,4117.32,Prospecting - Broad,Short Video (Reels)
+2026-09-16,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3782.28,23505,17669,329,14,8,6,5474.12,Shopping - In-Market,Product Listing Ad
+2026-09-02,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,4014.92,20290,12386,179,9,5,4,5030.57,Marketplace - Category,Sponsored Product
+2026-10-18,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3622.06,57077,46792,205,4,3,1,2457.07,Prospecting - Broad,Long Video
+2026-10-15,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,4211.8,19569,12120,127,5,4,1,2178.39,Marketplace - Keyword,Sponsored Product
+2026-10-17,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,4396.39,21106,13257,122,5,3,2,1906.06,Marketplace - Keyword,Sponsored Product
+2026-10-21,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,3659.71,16756,9847,117,7,4,3,3950.93,Marketplace - Keyword,Sponsored Product
+2026-09-14,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2163.56,5842,3211,530,39,10,29,23611.8,Brand Search,Text Ad
+2026-09-19,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,5437.33,23053,13149,165,19,13,6,10789.09,Marketplace - Keyword,Sponsored Product
+2026-10-02,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3890.81,19754,13125,175,14,8,6,8316.2,Marketplace - Category,Sponsored Product
+2026-10-19,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3756.39,51707,42060,209,2,2,0,1171.99,Prospecting - Broad,Long Video
+2026-10-11,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,-4330.02,16131,10145,608,23,20,3,13356.72,Non-Brand Search,Text Ad
+2026-10-24,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,1732.4,3974,2515,322,38,10,28,23233.91,Brand Search,Text Ad
+2026-09-12,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2264.67,10077,3792,203,18,7,11,9685.88,Retargeting - Cart Abandoners,Carousel
+2026-10-10,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,7092.9,48035,36060,692,19,12,7,12677.71,Prospecting - Interest,UGC Video
+2026-09-15,Google Ads,  ggl_search_generic_hairfall ,Conversions,Hair Growth Serum,5841.73,18777,12662,827,22,19,3,14217.67,Non-Brand Search,Text Ad
+2026-10-06,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3906.9,61212,56026,380,6,6,0,2506.2,Prospecting - Broad,Short Video (Reels)
+2026-09-16,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4620.92,39705,55587,407,10,6,4,5024.91,Performance Max - Mixed,Dynamic / Mixed
+2026-09-27,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4711.56,37671,28716,444,13,7,6,5666.84,Performance Max - Mixed,Dynamic / Mixed
+2026-10-25,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5977.44,18277,11951,733,26,22,4,16939.04,Non-Brand Search,Text Ad
+2026-10-07,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5645.68,21495,14399,807,25,23,2,16701.27,Non-Brand Search,Text Ad
+2026-09-21,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5567.31,37378,29497,493,14,7,7,7204.08,Prospecting - Interest,Influencer Video
+2026-10-06,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,5826.59,40663,31412,506,12,9,3,7236.46,Prospecting - Interest,UGC Video
+2026-09-10,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1650.41,7241,2690,148,7,3,4,6600.86,Retargeting - Site Visitors,Static Image
+2026-10-07,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,4804.18,32989,22610,412,6,5,1,3568.59,Prospecting - Interest,Influencer Video
+2026-10-07,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2745.29,46177,38832,213,2,2,0,1247.73,Prospecting - Broad,Long Video
+2026-10-25,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2837.12,43486,35795,193,1,1,0,568.92,Prospecting - Broad,Long Video
+2026-09-23,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2910.86,49365,39158,167,1,1,0,583.0,Prospecting - Broad,Long Video
+2026-10-04,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2220.55,6022,3913,573,53,12,41,32489.74,Brand Search,Text Ad
+2026-09-16,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2652.25,12818,8219,78,4,2,2,1724.51,Marketplace - Keyword,Sponsored Product
+2026-10-18,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,5888.01,40276,28714,361,22,11,11,12888.65,Prospecting - Lookalike,Static Image
+2026-09-22,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2623.2,13489,9260,66,2,2,0,882.61,Marketplace - Keyword,Sponsored Product
+2026-10-15,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,4036.99,22396,14906,254,16,14,2,6851.87,Shopping - In-Market,Product Listing Ad
+2026-10-18,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,8456.43,41987,30099,619,29,24,5,16470.86,Prospecting - Interest,UGC Video
+2026-09-24,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3301.64,49784,42171,397,3,3,0,1346.51,Prospecting - Broad,Short Video (Reels)
+2026-09-05,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,3417.04,17656,10682,103,7,4,3,2634.57,Marketplace - Keyword,Sponsored Product
+2026-10-02,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2586.67,44751,36992,178,1,1,0,598.23,Prospecting - Broad,Long Video
+2026-09-22,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6379.49,46590,31550,622,12,10,2,9393.5,Prospecting - Interest,UGC Video
+2026-10-13,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2416.99,6080,3866,494,42,13,29,28026.31,Brand Search,Text Ad
+2026-09-24,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4266.05,31883,24487,416,17,14,3,11334.66,Prospecting - Lookalike,Static Image
+2026-09-11,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2425.04,11568,4910,193,9,2,7,4966.23,Retargeting - Cart Abandoners,Carousel
+2026-10-26,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,1896.95,4956,3045,352,27,13,14,16941.01,Brand Search,Text Ad
+2026-09-22,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3837.31,22985,14458,190,21,14,7,11077.57,Marketplace - Category,Sponsored Product
+2026-10-08,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4135.3,20376,11206,157,13,11,2,7363.77,Marketplace - Keyword,Sponsored Product
+2026-10-17,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,6759.09,47714,33703,522,20,18,2,10042.85,Prospecting - Interest,Influencer Video
+2026-09-04,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2036.0,9830,3639,178,10,4,6,4945.01,Retargeting - Cart Abandoners,Carousel
+2026-10-04,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,7401.14,48671,35017,505,17,13,4,10377.48,Prospecting - Interest,UGC Video
+2026-10-07,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3412.55,23356,15629,403,12,6,6,4524.36,Shopping - In-Market,Product Listing Ad
+20/09/2026,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,7001.79,49862,37025,682,21,16,5,11406.94,Prospecting - Interest,UGC Video
+2026-09-06,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2867.22,14398,9488,106,4,2,2,1478.83,Marketplace - Keyword,Sponsored Product
+2026-10-10,Meta Ads,  meta_awareness_sunscreen_reels ,Awareness,Sunscreen SPF 50,"₹4,064.15",46123,40185,347,5,5,0,2069.72,Prospecting - Broad,Short Video (Reels)
+2026-09-13,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2859.47,51332,41893,209,2,1,1,1187.88,Prospecting - Broad,Long Video
+2026-09-02,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,2971.89,18578,12989,323,11,11,0,4723.25,Shopping - In-Market,Product Listing Ad
+2026-10-27,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1267.67,5630,1877,116,12,6,6,10555.76,Retargeting - Site Visitors,Static Image
+2026-09-02,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,4801.15,23467,13960,184,9,6,3,5239.01,,Sponsored Product
+2026-10-15,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3763.8,39713,32934,286,5,3,2,2564.67,Prospecting - Broad,Short Video (Reels)
+2026-10-10,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3857.21,19698,11660,125,15,9,6,8087.04,Marketplace - Category,Sponsored Product
+2026-10-03,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4356.05,31998,23220,280,13,11,2,8382.74,Prospecting - Lookalike,Static Image
+2026-10-02,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2300.66,10335,4363,201,10,5,5,5102.48,,Carousel
+2026-10-23,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2392.16,12581,8430,96,3,3,0,1178.62,Marketplace - Keyword,Sponsored Product
+2026-09-18,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1419.2,5505,1941,101,3,0,3,3032.31,Retargeting - Site Visitors,Static Image
+2026-09-29,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5270.82,20549,14094,899,26,22,4,16948.46,Non-Brand Search,Text Ad
+2026-09-26,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3350.16,16132,10362,145,6,5,1,3574.81,Marketplace - Category,Sponsored Product
+"Oct 13, 2026",Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,4002.54,24293,16042,434,18,14,4,8143.62,Shopping - In-Market,Product Listing Ad
+10/10/2026,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5095.25,31229,21268,423,8,6,2,4770.82,Prospecting - Interest,Influencer Video
+2026-10-14,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4181.95,39148,28707,469,15,12,3,7009.58,Performance Max - Mixed,Dynamic / Mixed
+2026-10-15,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,4219.38,16272,10062,117,10,7,3,4709.68,Marketplace - Category,Sponsored Product
+2026-09-05,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,2914.32,53163,47757,223,5,5,0,3430.08,Prospecting - Broad,Long Video
+2026-10-20,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1910.25,6503,2281,150,11,3,8,11015.99,Retargeting - Site Visitors,Static Image
+2026-09-15,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2428.72,6834,4547,634,44,12,32,27701.27,Brand Search,Text Ad
+2026-10-11,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,1929.59,5116,3328,478,43,12,31,22173.8,,Text Ad
+2026-10-15,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,6181.94,25353,13979,184,27,19,8,15198.16,Marketplace - Keyword,Sponsored Product
+2026-09-18,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,4823.74,33200,24552,396,15,10,5,7952.35,Prospecting - Interest,Influencer Video
+2026-09-13,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4340.18,32968,27960,335,5,4,1,2856.94,Prospecting - Lookalike,Static Image
+2026-09-16,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3899.08,46169,39752,330,4,3,1,1758.74,Prospecting - Broad,Short Video (Reels)
+2026-09-04,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3763.49,24868,16801,450,20,16,4,8626.91,Shopping - In-Market,Product Listing Ad
+2026-09-18,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2744.21,15368,5971,375,33,12,21,16720.95,Retargeting - Cart Abandoners,Carousel
+2026-09-15,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3493.42,20807,13402,353,8,4,4,3600.55,Shopping - In-Market,Product Listing Ad
+2026-10-23,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,4145.82,18479,11362,159,12,9,3,6768.19,Marketplace - Category,Sponsored Product
+2026-09-11,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4297.51,35141,22894,326,9,6,3,4118.95,Performance Max - Mixed,Dynamic / Mixed
+2026-10-13,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,5616.5,19215,13158,811,26,23,3,15557.79,Non-Brand Search,Text Ad
+2026-09-22,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4220.72,53453,49245,458,5,5,0,2268.48,Prospecting - Broad,Short Video (Reels)
+2026-09-13,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1655.36,7096,2720,127,7,3,4,7323.34,Retargeting - Site Visitors,Static Image
+2026-10-21,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5016.19,41868,29946,367,8,5,3,4047.49,Prospecting - Interest,
+2026-09-10,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4267.56,58382,52291,325,3,3,0,1227.17,Prospecting - Broad,Short Video (Reels)
+2026-10-14,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3539.69,17236,10445,160,8,6,2,4257.4,Marketplace - Category,Sponsored Product
+2026-10-23,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4218.76,32684,24560,321,4,3,1,2620.77,Prospecting - Lookalike,Static Image
+2026-09-04,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3162.99,40071,33701,229,0,0,0,0.0,Prospecting - Broad,Short Video (Reels)
+2026-10-03,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,2349.39,10715,4276,240,13,7,6,6428.58,Retargeting - Cart Abandoners,Carousel
+2026-09-26,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1704.35,6978,2525,98,11,6,5,10318.48,Retargeting - Site Visitors,Static Image
+2026-10-14,E-commerce,ECOM_Amazon_SP_HairSerum,Sales,Hair Growth Serum,3758.35,17318,9526,137,13,8,5,8668.08,Marketplace - Keyword,Sponsored Product
+2026-10-15,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,8102.41,55100,40673,821,30,24,6,21537.07,Prospecting - Interest,UGC Video
+2026-09-25,Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,4509.5,15475,10739,657,26,18,8,18997.17,Non-Brand Search,Text Ad
+2026-09-08,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2749.04,13814,9042,94,2,1,1,780.37,Marketplace - Keyword,Sponsored Product
+2026-09-07,Meta Ads,META_Prospecting_HairSerum_UGC,Conversions,Hair Growth Serum,6626.95,43655,34279,651,15,12,3,8668.61,Prospecting - Interest,UGC Video
+2026-09-11,Meta Ads,META_Prospecting_VitC_Influencer,Conversions,Vitamin C Face Serum,5499.67,35506,24743,508,9,7,2,4386.83,Prospecting - Interest,Influencer Video
+2026-10-14,E-commerce,ECOM_Flipkart_SP_Shampoo,Sales,Rice Water Shampoo,2480.74,11111,6601,73,3,1,2,1231.75,Marketplace - Keyword,Sponsored Product
+2026-09-16,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,4371.76,39226,28265,357,13,11,2,8226.25,Prospecting - Lookalike,Static Image
+2026-10-03,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3175.59,17331,11439,319,11,10,1,4758.77,Shopping - In-Market,Product Listing Ad
+2026-10-02,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2428.58,6045,3940,535,41,12,29,25854.85,Brand Search,Text Ad
+"Sep 13, 2026",Google Ads,GGL_Search_Generic_HairFall,Conversions,Hair Growth Serum,6805.72,25776,16712,1122,45,37,8,26239.96,Non-Brand Search,Text Ad
+2026-09-09,Meta Ads,META_Prospecting_HairSerum_Static,Conversions,Hair Growth Serum,3783.34,31045,23948,216,4,4,0,2283.69,Prospecting - Lookalike,Static Image
+2026-10-18,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,31910.8,11104,3899,169,14,7,7,7048.28,Retargeting - Cart Abandoners,Carousel
+2026-09-11,E-commerce,ECOM_Nykaa_Sponsored_VitC,Sales,Vitamin C Face Serum,3365.78,15880,10273,134,6,3,3,2863.3,Marketplace - Category,Sponsored Product
+2026-09-15,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,4227.84,34160,23108,485,18,11,7,9138.4,Performance Max - Mixed,Dynamic / Mixed
+2026-09-07,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2033.2,5427,3294,537,47,13,34,29373.57,Brand Search,Text Ad
+2026-10-16,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1959.44,7597,2516,123,10,4,6,9320.99,Retargeting - Site Visitors,Static Image
+2026-10-15,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,6587.78,44145,31259,520,18,13,5,8412.36,Performance Max - Mixed,Dynamic / Mixed
+2026-10-26,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3517.85,22588,15499,431,16,11,5,6762.04,Shopping - In-Market,Product Listing Ad
+2026-10-09,Google Ads,GGL_Search_Brand,Conversions,Hair Growth Serum,2099.52,4961,3189,365,28,7,21,16168.89,Brand Search,Text Ad
+2026-09-06,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,4449.95,68205,58722,503,6,5,1,2479.77,Prospecting - Broad,Short Video (Reels)
+2026-10-19,Meta Ads,META_Retargeting_Combo_Offer,Conversions,Hair Care Combo,1672.78,5841,2225,100,7,1,6,6643.48,Retargeting - Site Visitors,Static Image
+2026-09-16,Google Ads,GGL_YouTube_HairSerum,Awareness,Hair Growth Serum,3632.92,60197,50404,245,3,3,0,2163.73,Prospecting - Broad,Long Video
+2026-10-02,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3648.53,39995,34889,273,4,4,0,1818.43,Prospecting - Broad,Short Video (Reels)
+2026-10-10,Google Ads,GGL_PMax_OnionHairOil,Sales,Onion Hair Oil,5247.3,43937,28544,555,23,18,5,10031.81,Performance Max - Mixed,Dynamic / Mixed
+2026-09-23,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,2582.63,15238,10444,230,4,3,1,1483.87,Shopping - In-Market,Product Listing Ad
+2026-10-28,Google Ads,GGL_Shopping_Sunscreen,Sales,Sunscreen SPF 50,3412.88,20553,18159,401,7,7,0,3108.45,Shopping - In-Market,Product Listing Ad
+2026-09-17,Meta Ads,META_Awareness_Sunscreen_Reels,Awareness,Sunscreen SPF 50,3450.15,49173,43924,278,2,1,1,893.43,Prospecting - Broad,Short Video (Reels)
+26/10/2026,Meta Ads,META_Retargeting_Shampoo_Carousel,Conversions,Rice Water Shampoo,3056.25,13668,5178,283,17,11,6,7782.88,Retargeting - Cart Abandoners,Carousel

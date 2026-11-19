@@ -1,0 +1,16 @@
+Step,Issue,Rows_Affected,Action,Reason
+2.1,Exact duplicate rows,12,"Removed duplicates, kept first copy","Same date, campaign and identical metrics = the export repeated the row. Keeping both double-counts spend and revenue."
+2.2,"Inconsistent channel labels (e.g. 'Facebook Ads', ' Google Ads', 'Ecommerce')",14,Mapped to 3 standard names,"Group-by treats 'meta ads' and 'Meta Ads' as different channels, splitting the totals."
+2.2,Campaign names with extra spaces / wrong case,8,Trimmed and matched to the campaign master list,Same reason: one campaign must have one name.
+2.3,"Mixed date formats (YYYY-MM-DD, DD/MM/YYYY, 'Sep 11, 2026')",20,Parsed each with an explicit format into a real date,Text dates sort wrongly and cannot be grouped by week. Explicit formats avoid 05/09 being read as May 9.
+2.4,"Ad Spend stored as text like '₹4,512.00'",15,"Removed ₹ and commas, converted to number",Text cannot be summed; SUM would ignore these rows.
+2.5,Missing Audience_Type,10,Filled from the same campaign's other rows,"Every campaign has a single audience/creative (verified in 2.10), so the value is known, not guessed."
+2.5,Missing Ad_Creative_Type,6,Filled from the same campaign's other rows,"Every campaign has a single audience/creative (verified in 2.10), so the value is known, not guessed."
+2.6,Negative Ad Spend,3,Converted to positive (absolute value) and flagged,"Ad platforms cannot charge negative amounts. The size matched the campaign's normal daily spend, so it is a sign-entry error, not a refund."
+2.6,Clicks greater than Impressions,3,Swapped the two values back,"A person must see an ad before clicking it. After swapping, CTR fell back into the campaign's normal range."
+2.6,Reach greater than Impressions,3,Capped Reach at Impressions,Reach counts unique people; it can never exceed total impressions. Capping is the conservative fix.
+2.6,New + Returning customers does not equal Orders,4,Returning = Orders - New Customers,Assumption: one order = one customer in this dataset. New Customers is kept because it drives CAC; Orders is the system-of-record count.
+2.7,"Ad Spend ~10x too high (CPM > 3x campaign median, impressions normal)",2,Divided spend by 10 and flagged,"Impressions were normal, so the platform did not deliver 10x more ads. An extra digit was typed. After the fix CPM matches the campaign median."
+2.7,High-revenue days (IQR rule),12,"Kept, no change",3 of 12 fall in the 15-20 Oct festive sale; the rest are weekends/normal variation. Removing them would hide real demand.
+2.8,Missing Ad Spend,4,"Estimated = Impressions / 1000 x campaign median CPM, flagged","Dropping the row would also drop its revenue and orders and inflate ROAS. CPM varies <10% within a campaign, so the estimate is tight. Replace with the invoice value when available."
+2.8,Missing Revenue (Orders present),8,"Estimated = Orders x campaign median AOV, flagged","Orders are known, and AOV is stable per campaign. Leaving it blank would count spend with zero revenue and understate ROAS."

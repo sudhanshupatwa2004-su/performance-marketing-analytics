@@ -1,0 +1,31 @@
+{
+  "name": "WishCare Inspired - Performance Marketing",
+  "dataColors": ["#2A78D6", "#EB6834", "#1BAF7A", "#EDA100", "#E87BA4", "#008300", "#6250D6", "#E34948"],
+  "background": "#FFFFFF",
+  "foreground": "#1F2A44",
+  "tableAccent": "#2A78D6",
+  "good": "#1BAF7A",
+  "neutral": "#EDA100",
+  "bad": "#E34948",
+  "maximum": "#1F2A44",
+  "center": "#C9D7EA",
+  "minimum": "#F4F6FA",
+  "textClasses": {
+    "callout": { "fontSize": 24, "fontFace": "Segoe UI Semibold", "color": "#1F2A44" },
+    "title": { "fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#1F2A44" },
+    "header": { "fontSize": 11, "fontFace": "Segoe UI Semibold", "color": "#1F2A44" },
+    "label": { "fontSize": 9, "fontFace": "Segoe UI", "color": "#52514E" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E3E6EC" } }, "radius": 8 }],
+        "dropShadow": [{ "show": false }]
+      }
+    },
+    "page": {
+      "*": { "background": [{ "color": { "solid": { "color": "#F4F6FA" } }, "transparency": 0 }] }
+    }
+  }
+}

@@ -1,0 +1,132 @@
+// =====================================================================
+// WishCare-Inspired Performance Marketing Dashboard - DAX measures
+// Simulated data. Paste each measure via Modeling > New measure.
+// Table names: 'Campaign' (campaign_performance_cleaned.csv),
+//              'AB_Test' (ab_test_cleaned.csv), 'Date' (calculated table below)
+//
+// DIVIDE(numerator, denominator) returns BLANK when the denominator is 0.
+// That is the same zero-guard used in Excel (IF(...=0,"",...)) and SQL (NULLIF).
+// Every KPI divides SUMS, so totals match Excel, SQL and Python exactly.
+// =====================================================================
+
+
+// ---------- 1. Date table (Modeling > New table) ----------
+Date =
+ADDCOLUMNS (
+    CALENDAR ( DATE ( 2026, 9, 1 ), DATE ( 2026, 10, 30 ) ),
+    "Week Start", [Date] - WEEKDAY ( [Date], 3 ),          // Monday
+    "Day Name", FORMAT ( [Date], "ddd" ),
+    "Month", FORMAT ( [Date], "mmm yyyy" ),
+    "Is Weekend", IF ( WEEKDAY ( [Date], 2 ) > 5, "Weekend", "Weekday" )
+)
+// Then: Table tools > Mark as date table (column Date),
+// and create a relationship Date[Date] 1 -> * Campaign[Date].
+
+
+// ---------- 2. Base measures (sums) ----------
+Total Ad Spend      = SUM ( Campaign[Ad_Spend] )
+Total Revenue       = SUM ( Campaign[Revenue] )
+Total Orders        = SUM ( Campaign[Orders] )
+Total Impressions   = SUM ( Campaign[Impressions] )
+Total Reach         = SUM ( Campaign[Reach] )
+Total Clicks        = SUM ( Campaign[Clicks] )
+New Customers       = SUM ( Campaign[New_Customers] )
+Returning Customers = SUM ( Campaign[Returning_Customers] )
+
+
+// ---------- 3. KPI measures (ratio of totals) ----------
+ROAS    = DIVIDE ( [Total Revenue], [Total Ad Spend] )
+CAC     = DIVIDE ( [Total Ad Spend], [New Customers] )
+CTR %   = DIVIDE ( [Total Clicks], [Total Impressions] ) * 100
+CPC     = DIVIDE ( [Total Ad Spend], [Total Clicks] )
+CPM     = DIVIDE ( [Total Ad Spend], [Total Impressions] ) * 1000
+CVR %   = DIVIDE ( [Total Orders], [Total Clicks] ) * 100
+AOV     = DIVIDE ( [Total Revenue], [Total Orders] )
+// Note: DIVIDE(...) * 100 stays BLANK when the denominator is 0, because BLANK * 100 = BLANK.
+
+
+// ---------- 4. Helpful extras ----------
+New Customer Share % = DIVIDE ( [New Customers], [Total Orders] ) * 100
+
+Revenue Share % =
+DIVIDE ( [Total Revenue], CALCULATE ( [Total Revenue], ALLSELECTED ( Campaign ) ) ) * 100
+
+Spend Share % =
+DIVIDE ( [Total Ad Spend], CALCULATE ( [Total Ad Spend], ALLSELECTED ( Campaign ) ) ) * 100
+
+// Assumed contribution margin (planning assumption, not data)
+Margin Assumption =
+IF ( SELECTEDVALUE ( Campaign[Marketing_Channel] ) = "E-commerce", 0.40, 0.55 )
+
+Contribution After Ads =
+SUMX (
+    VALUES ( Campaign[Marketing_Channel] ),
+    CALCULATE ( [Total Revenue] ) * IF ( Campaign[Marketing_Channel] = "E-commerce", 0.40, 0.55 )
+        - CALCULATE ( [Total Ad Spend] )
+)
+
+Break-even ROAS = DIVIDE ( 1, [Margin Assumption] )
+
+Revenue 7D Avg =
+AVERAGEX ( DATESINPERIOD ( 'Date'[Date], MAX ( 'Date'[Date] ), -7, DAY ), [Total Revenue] )
+
+// Dynamic title text for the report header
+Selection Label =
+"Showing: "
+    & IF ( ISFILTERED ( Campaign[Marketing_Channel] ),
+           CONCATENATEX ( VALUES ( Campaign[Marketing_Channel] ), Campaign[Marketing_Channel], ", " ),
+           "All channels" )
+    & "  |  " & FORMAT ( MIN ( 'Date'[Date] ), "d mmm" ) & " - " & FORMAT ( MAX ( 'Date'[Date] ), "d mmm yyyy" )
+
+// Conditional colour for ROAS bars (Format > Bars > fx > Field value)
+ROAS Colour =
+SWITCH ( TRUE (),
+    [ROAS] >= 3, "#1BAF7A",
+    [ROAS] >= 1.82, "#2A78D6",
+    [ROAS] >= 1, "#EDA100",
+    "#E34948" )
+
+
+// ---------- 5. A/B test measures (table 'AB_Test') ----------
+AB Impressions = SUM ( AB_Test[Impressions] )
+AB Clicks      = SUM ( AB_Test[Clicks] )
+AB Orders      = SUM ( AB_Test[Orders] )
+AB Revenue     = SUM ( AB_Test[Revenue] )
+AB Spend       = SUM ( AB_Test[Ad_Spend] )
+AB CTR %       = DIVIDE ( [AB Clicks], [AB Impressions] ) * 100
+AB CPC         = DIVIDE ( [AB Spend], [AB Clicks] )
+AB CVR %       = DIVIDE ( [AB Orders], [AB Clicks] ) * 100
+AB ROAS        = DIVIDE ( [AB Revenue], [AB Spend] )
+
+// Two-proportion z-test for CTR (B vs A), computed in DAX
+AB CTR z-score =
+VAR cA = CALCULATE ( [AB Clicks], AB_Test[Variation] = "A" )
+VAR nA = CALCULATE ( [AB Impressions], AB_Test[Variation] = "A" )
+VAR cB = CALCULATE ( [AB Clicks], AB_Test[Variation] = "B" )
+VAR nB = CALCULATE ( [AB Impressions], AB_Test[Variation] = "B" )
+VAR p  = DIVIDE ( cA + cB, nA + nB )
+VAR se = SQRT ( p * ( 1 - p ) * ( 1 / nA + 1 / nB ) )
+RETURN DIVIDE ( DIVIDE ( cB, nB ) - DIVIDE ( cA, nA ), se )
+
+AB CTR p-value = 2 * ( 1 - NORM.S.DIST ( ABS ( [AB CTR z-score] ), TRUE ) )
+
+AB CVR z-score =
+VAR oA = CALCULATE ( [AB Orders], AB_Test[Variation] = "A" )
+VAR cA = CALCULATE ( [AB Clicks], AB_Test[Variation] = "A" )
+VAR oB = CALCULATE ( [AB Orders], AB_Test[Variation] = "B" )
+VAR cB = CALCULATE ( [AB Clicks], AB_Test[Variation] = "B" )
+VAR p  = DIVIDE ( oA + oB, cA + cB )
+VAR se = SQRT ( p * ( 1 - p ) * ( 1 / cA + 1 / cB ) )
+RETURN DIVIDE ( DIVIDE ( oB, cB ) - DIVIDE ( oA, cA ), se )
+
+AB CVR p-value = 2 * ( 1 - NORM.S.DIST ( ABS ( [AB CVR z-score] ), TRUE ) )
+
+AB Verdict =
+IF ( [AB CTR p-value] < 0.05, "CTR: B significantly higher. ", "CTR: no significant difference. " )
+    & IF ( [AB CVR p-value] < 0.05, "CVR: significant difference.", "CVR: not significant - sales impact unproven." )
+
+
+// ---------- 6. Expected values to check your build (full period, no filters) ----------
+// Total Ad Spend 33,15,653.11 | Total Revenue 72,67,423.80 | Orders 12,359 | New Customers 7,576
+// ROAS 2.19 | CAC 437.65 | CTR 1.29 | CPC 11.39 | CPM 146.92 | CVR 4.25 | AOV 588.03
+// AB: CTR z = 5.89 (p < 0.001), CVR z = -0.10 (p = 0.92)
